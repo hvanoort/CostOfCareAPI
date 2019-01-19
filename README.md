@@ -12,7 +12,22 @@ Two parameters can be prodivided when querying the API - provider_id and/or drg_
 * **drg_code** - The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
 
 
-##### Example Request: cURL
+
+#### cURL
+##### Example Request
 ```
 https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
+```
+##### Example Response
+```python
+[
+  {
+    "drg_code": 1, 
+    "provider_id": 230038,
+    "cost": 868178, 
+    "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
+    "drg_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+  },
+  {...}
+]
 ```
