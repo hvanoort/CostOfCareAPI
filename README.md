@@ -16,7 +16,7 @@ Two parameters can be prodivided when querying the API - provider_id and/or drg_
 #### cURL
 ##### Example Request
 ```
-https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
+curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
 ```
 ##### Example Response
 ```python
