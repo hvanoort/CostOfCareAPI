@@ -1,6 +1,11 @@
 # Overview
 This repo offers documentation for querying a publicly accessible API to retrieve cost data by hospital provider and diagnosis. The purpose of making this publicly available is to attempt to help push down health care costs nationwide. If uninsured, patients can view costs of certain procedures to review options.
 
+### Notes
+- This project is a continual work in progress and may not contain all US hospitals.
+- The costs returned through this API reflect the average cost by diagnosis (DRG) reported by each hospital in January 2019.
+- Many, but not all, of the costs returned by the API exclude outliers, defined as +/- 2 standard deviations from the mean. In other words, if a hospital performed 10 heart transplants in 2019, and one of those transplants incurred costs greater than 2 standard deviations from the mean of the others, it is not included in the average.
+
 # How to use it
 
 ### Base URL
