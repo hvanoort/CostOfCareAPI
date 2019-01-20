@@ -11,7 +11,7 @@ Two parameters can be prodivided when querying the API - provider_id and/or drg_
 * **provider_id** - The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
 * **drg_code** - The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
 
-
+<br>
 
 ### cURL
 ##### Example Request
