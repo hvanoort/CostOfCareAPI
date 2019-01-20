@@ -3,7 +3,7 @@ This repo offers documentation for querying a publicly accessible API to retriev
 
 # How to use it
 
-#### Base URL
+### Base URL
 ```
 https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs
 ```
@@ -13,7 +13,7 @@ Two parameters can be prodivided when querying the API - provider_id and/or drg_
 
 
 
-#### cURL
+### cURL
 ##### Example Request
 ```
 curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
@@ -30,4 +30,17 @@ curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/c
   },
   {...}
 ]
+```
+
+### Python
+##### Example Request
+```python
+import requests
+
+params = {
+    'provider_id': 230038,
+    'drg_code': 1
+}
+
+resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs', params=params)
 ```
