@@ -44,3 +44,16 @@ params = {
 
 resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs', params=params)
 ```
+
+##### Example Response
+```python
+[
+  {
+    "drg_code": 1, 
+    "provider_id": 230038,
+    "cost": 868178, 
+    "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
+    "drg_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+  }
+]
+```
