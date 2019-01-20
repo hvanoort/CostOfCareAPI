@@ -12,9 +12,9 @@ This repo offers documentation for querying a publicly accessible API to retriev
 ```
 https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs
 ```
-Two parameters can be prodivided when querying the API - provider_id and/or drg_code.
-* **provider_id** - The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
-* **drg_code** - The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
+Two parameters can be prodivided when querying the API - provider_id and/or drg_code. At least one of the two are required.
+* **provider_id** - (optional) The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
+* **drg_code** - (optional) The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
 
 <br>
 
