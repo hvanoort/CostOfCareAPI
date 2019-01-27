@@ -1,0 +1,3422 @@
+[
+  {
+    "DRG Code": 1,
+    "Description": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+    "Average Cost": "$277,558 "
+  },
+  {
+    "DRG Code": 3,
+    "Description": "ECMO OR TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W MAJ O.R.",
+    "Average Cost": "$616,243 "
+  },
+  {
+    "DRG Code": 4,
+    "Description": "TRACH W MV >96 HRS OR PDX EXC FACE, MOUTH & NECK W/O MAJ O.R.",
+    "Average Cost": "$405,964 "
+  },
+  {
+    "DRG Code": 11,
+    "Description": "TRACHEOSTOMY FOR FACE, MOUTH & NECK DIAGNOSES OR LARYNGECTOMY W MCC",
+    "Average Cost": "$282,119 "
+  },
+  {
+    "DRG Code": 12,
+    "Description": "TRACHEOSTOMY FOR FACE, MOUTH & NECK DIAGNOSES OR LARYNGECTOMY W CC",
+    "Average Cost": "$205,718 "
+  },
+  {
+    "DRG Code": 13,
+    "Description": "TRACHEOSTOMY FOR FACE, MOUTH & NECK DIAGNOSES OR LARYNGECTOMY W/O CC/MCC",
+    "Average Cost": "$124,836 "
+  },
+  {
+    "DRG Code": 20,
+    "Description": "INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W MCC",
+    "Average Cost": "$452,453 "
+  },
+  {
+    "DRG Code": 21,
+    "Description": "INTRACRANIAL VASCULAR PROCEDURES W PDX HEMORRHAGE W CC",
+    "Average Cost": "$414,763 "
+  },
+  {
+    "DRG Code": 23,
+    "Description": "CRANIOTOMY W MAJOR DEVICE IMPLANT OR ACUTE COMPLEX CNS PDX W MCC OR CHEMOTHERAPY IMPLANT OR EPILEPSY",
+    "Average Cost": "$240,317 "
+  },
+  {
+    "DRG Code": 24,
+    "Description": "CRANIO W MAJOR DEV IMPL/ACUTE COMPLEX CNS PDX W/O MCC",
+    "Average Cost": "$154,158 "
+  },
+  {
+    "DRG Code": 25,
+    "Description": "CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W MCC",
+    "Average Cost": "$252,528 "
+  },
+  {
+    "DRG Code": 26,
+    "Description": "CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W CC",
+    "Average Cost": "$205,771 "
+  },
+  {
+    "DRG Code": 27,
+    "Description": "CRANIOTOMY & ENDOVASCULAR INTRACRANIAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$160,053 "
+  },
+  {
+    "DRG Code": 28,
+    "Description": "SPINAL PROCEDURES W MCC",
+    "Average Cost": "$249,398 "
+  },
+  {
+    "DRG Code": 29,
+    "Description": "SPINAL PROCEDURES W CC OR SPINAL NEUROSTIMULATORS",
+    "Average Cost": "$214,525 "
+  },
+  {
+    "DRG Code": 30,
+    "Description": "SPINAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$160,390 "
+  },
+  {
+    "DRG Code": 31,
+    "Description": "VENTRICULAR SHUNT PROCEDURES W MCC",
+    "Average Cost": "$175,342 "
+  },
+  {
+    "DRG Code": 32,
+    "Description": "VENTRICULAR SHUNT PROCEDURES W CC",
+    "Average Cost": "$149,710 "
+  },
+  {
+    "DRG Code": 33,
+    "Description": "VENTRICULAR SHUNT PROCEDURES W/O CC/MCC",
+    "Average Cost": "$113,185 "
+  },
+  {
+    "DRG Code": 34,
+    "Description": "CAROTID ARTERY STENT PROCEDURE W MCC",
+    "Average Cost": "$170,172 "
+  },
+  {
+    "DRG Code": 35,
+    "Description": "CAROTID ARTERY STENT PROCEDURE W CC",
+    "Average Cost": "$136,110 "
+  },
+  {
+    "DRG Code": 36,
+    "Description": "CAROTID ARTERY STENT PROCEDURE W/O CC/MCC",
+    "Average Cost": "$61,574 "
+  },
+  {
+    "DRG Code": 37,
+    "Description": "EXTRACRANIAL PROCEDURES W MCC",
+    "Average Cost": "$153,149 "
+  },
+  {
+    "DRG Code": 38,
+    "Description": "EXTRACRANIAL PROCEDURES W CC",
+    "Average Cost": "$137,657 "
+  },
+  {
+    "DRG Code": 39,
+    "Description": "EXTRACRANIAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$64,931 "
+  },
+  {
+    "DRG Code": 40,
+    "Description": "PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W MCC",
+    "Average Cost": "$104,828 "
+  },
+  {
+    "DRG Code": 41,
+    "Description": "PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W CC OR PERIPH NEUROSTIM",
+    "Average Cost": "$89,933 "
+  },
+  {
+    "DRG Code": 42,
+    "Description": "PERIPH/CRANIAL NERVE & OTHER NERV SYST PROC W/O CC/MCC",
+    "Average Cost": "$72,912 "
+  },
+  {
+    "DRG Code": 52,
+    "Description": "SPINAL DISORDERS & INJURIES W CC/MCC",
+    "Average Cost": "$161,740 "
+  },
+  {
+    "DRG Code": 53,
+    "Description": "SPINAL DISORDERS & INJURIES W/O CC/MCC",
+    "Average Cost": "$30,833 "
+  },
+  {
+    "DRG Code": 54,
+    "Description": "NERVOUS SYSTEM NEOPLASMS W MCC",
+    "Average Cost": "$70,850 "
+  },
+  {
+    "DRG Code": 55,
+    "Description": "NERVOUS SYSTEM NEOPLASMS W/O MCC",
+    "Average Cost": "$62,323 "
+  },
+  {
+    "DRG Code": 56,
+    "Description": "DEGENERATIVE NERVOUS SYSTEM DISORDERS W MCC",
+    "Average Cost": "$81,769 "
+  },
+  {
+    "DRG Code": 57,
+    "Description": "DEGENERATIVE NERVOUS SYSTEM DISORDERS W/O MCC",
+    "Average Cost": "$94,112 "
+  },
+  {
+    "DRG Code": 58,
+    "Description": "MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W MCC",
+    "Average Cost": "$82,843 "
+  },
+  {
+    "DRG Code": 59,
+    "Description": "MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W CC",
+    "Average Cost": "$37,146 "
+  },
+  {
+    "DRG Code": 60,
+    "Description": "MULTIPLE SCLEROSIS & CEREBELLAR ATAXIA W/O CC/MCC",
+    "Average Cost": "$18,958 "
+  },
+  {
+    "DRG Code": 61,
+    "Description": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W MCC",
+    "Average Cost": "$119,511 "
+  },
+  {
+    "DRG Code": 62,
+    "Description": "ISCHEMIC STROKE, PRECEREBRAL OCCLUSION OR TRANSIENT ISCHEMIA W THROMBOLYTIC AGENT W CC",
+    "Average Cost": "$86,905 "
+  },
+  {
+    "DRG Code": 64,
+    "Description": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W MCC",
+    "Average Cost": "$82,957 "
+  },
+  {
+    "DRG Code": 65,
+    "Description": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W CC OR TPA IN 24 HRS",
+    "Average Cost": "$47,748 "
+  },
+  {
+    "DRG Code": 66,
+    "Description": "INTRACRANIAL HEMORRHAGE OR CEREBRAL INFARCTION W/O CC/MCC",
+    "Average Cost": "$40,612 "
+  },
+  {
+    "DRG Code": 67,
+    "Description": "NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W MCC",
+    "Average Cost": "$74,787 "
+  },
+  {
+    "DRG Code": 68,
+    "Description": "NONSPECIFIC CVA & PRECEREBRAL OCCLUSION W/O INFARCT W/O MCC",
+    "Average Cost": "$44,942 "
+  },
+  {
+    "DRG Code": 69,
+    "Description": "TRANSIENT ISCHEMIA W/O THROMBOLYTIC",
+    "Average Cost": "$34,048 "
+  },
+  {
+    "DRG Code": 70,
+    "Description": "NONSPECIFIC CEREBROVASCULAR DISORDERS W MCC",
+    "Average Cost": "$66,494 "
+  },
+  {
+    "DRG Code": 71,
+    "Description": "NONSPECIFIC CEREBROVASCULAR DISORDERS W CC",
+    "Average Cost": "$52,793 "
+  },
+  {
+    "DRG Code": 72,
+    "Description": "NONSPECIFIC CEREBROVASCULAR DISORDERS W/O CC/MCC",
+    "Average Cost": "$44,862 "
+  },
+  {
+    "DRG Code": 73,
+    "Description": "CRANIAL & PERIPHERAL NERVE DISORDERS W MCC",
+    "Average Cost": "$35,112 "
+  },
+  {
+    "DRG Code": 74,
+    "Description": "CRANIAL & PERIPHERAL NERVE DISORDERS W/O MCC",
+    "Average Cost": "$35,487 "
+  },
+  {
+    "DRG Code": 75,
+    "Description": "VIRAL MENINGITIS W CC/MCC",
+    "Average Cost": "$27,245 "
+  },
+  {
+    "DRG Code": 76,
+    "Description": "VIRAL MENINGITIS W/O CC/MCC",
+    "Average Cost": "$17,259 "
+  },
+  {
+    "DRG Code": 77,
+    "Description": "HYPERTENSIVE ENCEPHALOPATHY W MCC",
+    "Average Cost": "$71,942 "
+  },
+  {
+    "DRG Code": 78,
+    "Description": "HYPERTENSIVE ENCEPHALOPATHY W CC",
+    "Average Cost": "$36,858 "
+  },
+  {
+    "DRG Code": 79,
+    "Description": "HYPERTENSIVE ENCEPHALOPATHY W/O CC/MCC",
+    "Average Cost": "$56,676 "
+  },
+  {
+    "DRG Code": 80,
+    "Description": "NONTRAUMATIC STUPOR & COMA W MCC",
+    "Average Cost": "$117,695 "
+  },
+  {
+    "DRG Code": 81,
+    "Description": "NONTRAUMATIC STUPOR & COMA W/O MCC",
+    "Average Cost": "$45,617 "
+  },
+  {
+    "DRG Code": 82,
+    "Description": "TRAUMATIC STUPOR & COMA, COMA >1 HR W MCC",
+    "Average Cost": "$76,891 "
+  },
+  {
+    "DRG Code": 83,
+    "Description": "TRAUMATIC STUPOR & COMA, COMA >1 HR W CC",
+    "Average Cost": "$59,038 "
+  },
+  {
+    "DRG Code": 84,
+    "Description": "TRAUMATIC STUPOR & COMA, COMA >1 HR W/O CC/MCC",
+    "Average Cost": "$37,110 "
+  },
+  {
+    "DRG Code": 85,
+    "Description": "TRAUMATIC STUPOR & COMA, COMA <1 HR W MCC",
+    "Average Cost": "$81,170 "
+  },
+  {
+    "DRG Code": 86,
+    "Description": "TRAUMATIC STUPOR & COMA, COMA <1 HR W CC",
+    "Average Cost": "$53,795 "
+  },
+  {
+    "DRG Code": 87,
+    "Description": "TRAUMATIC STUPOR & COMA, COMA <1 HR W/O CC/MCC",
+    "Average Cost": "$38,853 "
+  },
+  {
+    "DRG Code": 88,
+    "Description": "CONCUSSION W MCC",
+    "Average Cost": "$50,675 "
+  },
+  {
+    "DRG Code": 90,
+    "Description": "CONCUSSION W/O CC/MCC",
+    "Average Cost": "$34,169 "
+  },
+  {
+    "DRG Code": 91,
+    "Description": "OTHER DISORDERS OF NERVOUS SYSTEM W MCC",
+    "Average Cost": "$94,667 "
+  },
+  {
+    "DRG Code": 92,
+    "Description": "OTHER DISORDERS OF NERVOUS SYSTEM W CC",
+    "Average Cost": "$38,416 "
+  },
+  {
+    "DRG Code": 93,
+    "Description": "OTHER DISORDERS OF NERVOUS SYSTEM W/O CC/MCC",
+    "Average Cost": "$29,237 "
+  },
+  {
+    "DRG Code": 94,
+    "Description": "BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W MCC",
+    "Average Cost": "$175,829 "
+  },
+  {
+    "DRG Code": 95,
+    "Description": "BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W CC",
+    "Average Cost": "$67,687 "
+  },
+  {
+    "DRG Code": 96,
+    "Description": "BACTERIAL & TUBERCULOUS INFECTIONS OF NERVOUS SYSTEM W/O CC/MCC",
+    "Average Cost": "$132,136 "
+  },
+  {
+    "DRG Code": 97,
+    "Description": "NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W MCC",
+    "Average Cost": "$124,400 "
+  },
+  {
+    "DRG Code": 98,
+    "Description": "NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W CC",
+    "Average Cost": "$44,210 "
+  },
+  {
+    "DRG Code": 99,
+    "Description": "NON-BACTERIAL INFECT OF NERVOUS SYS EXC VIRAL MENINGITIS W/O CC/MCC",
+    "Average Cost": "$43,650 "
+  },
+  {
+    "DRG Code": 100,
+    "Description": "SEIZURES W MCC",
+    "Average Cost": "$63,071 "
+  },
+  {
+    "DRG Code": 101,
+    "Description": "SEIZURES W/O MCC",
+    "Average Cost": "$37,177 "
+  },
+  {
+    "DRG Code": 103,
+    "Description": "HEADACHES W/O MCC",
+    "Average Cost": "$23,508 "
+  },
+  {
+    "DRG Code": 113,
+    "Description": "ORBITAL PROCEDURES W CC/MCC",
+    "Average Cost": "$91,757 "
+  },
+  {
+    "DRG Code": 114,
+    "Description": "ORBITAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$45,106 "
+  },
+  {
+    "DRG Code": 115,
+    "Description": "EXTRAOCULAR PROCEDURES EXCEPT ORBIT",
+    "Average Cost": "$35,098 "
+  },
+  {
+    "DRG Code": 116,
+    "Description": "INTRAOCULAR PROCEDURES W CC/MCC",
+    "Average Cost": "$123,358 "
+  },
+  {
+    "DRG Code": 117,
+    "Description": "INTRAOCULAR PROCEDURES W/O CC/MCC",
+    "Average Cost": "$63,372 "
+  },
+  {
+    "DRG Code": 121,
+    "Description": "ACUTE MAJOR EYE INFECTIONS W CC/MCC",
+    "Average Cost": "$23,659 "
+  },
+  {
+    "DRG Code": 122,
+    "Description": "ACUTE MAJOR EYE INFECTIONS W/O CC/MCC",
+    "Average Cost": "$17,005 "
+  },
+  {
+    "DRG Code": 123,
+    "Description": "NEUROLOGICAL EYE DISORDERS",
+    "Average Cost": "$24,608 "
+  },
+  {
+    "DRG Code": 124,
+    "Description": "OTHER DISORDERS OF THE EYE W MCC",
+    "Average Cost": "$60,076 "
+  },
+  {
+    "DRG Code": 125,
+    "Description": "OTHER DISORDERS OF THE EYE W/O MCC",
+    "Average Cost": "$31,302 "
+  },
+  {
+    "DRG Code": 129,
+    "Description": "MAJOR HEAD & NECK PROCEDURES W CC/MCC OR MAJOR DEVICE",
+    "Average Cost": "$191,876 "
+  },
+  {
+    "DRG Code": 130,
+    "Description": "MAJOR HEAD & NECK PROCEDURES W/O CC/MCC",
+    "Average Cost": "$119,078 "
+  },
+  {
+    "DRG Code": 131,
+    "Description": "CRANIAL/FACIAL PROCEDURES W CC/MCC",
+    "Average Cost": "$96,508 "
+  },
+  {
+    "DRG Code": 132,
+    "Description": "CRANIAL/FACIAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$78,867 "
+  },
+  {
+    "DRG Code": 133,
+    "Description": "OTHER EAR, NOSE, MOUTH & THROAT O.R. PROCEDURES W CC/MCC",
+    "Average Cost": "$117,963 "
+  },
+  {
+    "DRG Code": 134,
+    "Description": "OTHER EAR, NOSE, MOUTH & THROAT O.R. PROCEDURES W/O CC/MCC",
+    "Average Cost": "$45,106 "
+  },
+  {
+    "DRG Code": 135,
+    "Description": "SINUS & MASTOID PROCEDURES W CC/MCC",
+    "Average Cost": "$66,379 "
+  },
+  {
+    "DRG Code": 137,
+    "Description": "MOUTH PROCEDURES W CC/MCC",
+    "Average Cost": "$54,193 "
+  },
+  {
+    "DRG Code": 138,
+    "Description": "MOUTH PROCEDURES W/O CC/MCC",
+    "Average Cost": "$23,410 "
+  },
+  {
+    "DRG Code": 139,
+    "Description": "SALIVARY GLAND PROCEDURES",
+    "Average Cost": "$54,248 "
+  },
+  {
+    "DRG Code": 146,
+    "Description": "EAR, NOSE, MOUTH & THROAT MALIGNANCY W MCC",
+    "Average Cost": "$37,373 "
+  },
+  {
+    "DRG Code": 147,
+    "Description": "EAR, NOSE, MOUTH & THROAT MALIGNANCY W CC",
+    "Average Cost": "$63,060 "
+  },
+  {
+    "DRG Code": 148,
+    "Description": "EAR, NOSE, MOUTH & THROAT MALIGNANCY W/O CC/MCC",
+    "Average Cost": "$45,729 "
+  },
+  {
+    "DRG Code": 149,
+    "Description": "DYSEQUILIBRIUM",
+    "Average Cost": "$30,913 "
+  },
+  {
+    "DRG Code": 151,
+    "Description": "EPISTAXIS W/O MCC",
+    "Average Cost": "$12,347 "
+  },
+  {
+    "DRG Code": 152,
+    "Description": "OTITIS MEDIA & URI W MCC",
+    "Average Cost": "$25,655 "
+  },
+  {
+    "DRG Code": 153,
+    "Description": "OTITIS MEDIA & URI W/O MCC",
+    "Average Cost": "$21,565 "
+  },
+  {
+    "DRG Code": 154,
+    "Description": "OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W MCC",
+    "Average Cost": "$36,155 "
+  },
+  {
+    "DRG Code": 155,
+    "Description": "OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W CC",
+    "Average Cost": "$28,451 "
+  },
+  {
+    "DRG Code": 156,
+    "Description": "OTHER EAR, NOSE, MOUTH & THROAT DIAGNOSES W/O CC/MCC",
+    "Average Cost": "$26,866 "
+  },
+  {
+    "DRG Code": 157,
+    "Description": "DENTAL & ORAL DISEASES W MCC",
+    "Average Cost": "$70,172 "
+  },
+  {
+    "DRG Code": 158,
+    "Description": "DENTAL & ORAL DISEASES W CC",
+    "Average Cost": "$29,759 "
+  },
+  {
+    "DRG Code": 159,
+    "Description": "DENTAL & ORAL DISEASES W/O CC/MCC",
+    "Average Cost": "$28,960 "
+  },
+  {
+    "DRG Code": 163,
+    "Description": "MAJOR CHEST PROCEDURES W MCC",
+    "Average Cost": "$197,482 "
+  },
+  {
+    "DRG Code": 164,
+    "Description": "MAJOR CHEST PROCEDURES W CC",
+    "Average Cost": "$104,702 "
+  },
+  {
+    "DRG Code": 165,
+    "Description": "MAJOR CHEST PROCEDURES W/O CC/MCC",
+    "Average Cost": "$97,375 "
+  },
+  {
+    "DRG Code": 166,
+    "Description": "OTHER RESP SYSTEM O.R. PROCEDURES W MCC",
+    "Average Cost": "$178,525 "
+  },
+  {
+    "DRG Code": 167,
+    "Description": "OTHER RESP SYSTEM O.R. PROCEDURES W CC",
+    "Average Cost": "$77,401 "
+  },
+  {
+    "DRG Code": 168,
+    "Description": "OTHER RESP SYSTEM O.R. PROCEDURES W/O CC/MCC",
+    "Average Cost": "$65,246 "
+  },
+  {
+    "DRG Code": 175,
+    "Description": "PULMONARY EMBOLISM W MCC",
+    "Average Cost": "$61,368 "
+  },
+  {
+    "DRG Code": 176,
+    "Description": "PULMONARY EMBOLISM W/O MCC",
+    "Average Cost": "$38,726 "
+  },
+  {
+    "DRG Code": 177,
+    "Description": "RESPIRATORY INFECTIONS & INFLAMMATIONS W MCC",
+    "Average Cost": "$144,880 "
+  },
+  {
+    "DRG Code": 178,
+    "Description": "RESPIRATORY INFECTIONS & INFLAMMATIONS W CC",
+    "Average Cost": "$97,780 "
+  },
+  {
+    "DRG Code": 179,
+    "Description": "RESPIRATORY INFECTIONS & INFLAMMATIONS W/O CC/MCC",
+    "Average Cost": "$41,080 "
+  },
+  {
+    "DRG Code": 180,
+    "Description": "RESPIRATORY NEOPLASMS W MCC",
+    "Average Cost": "$61,991 "
+  },
+  {
+    "DRG Code": 181,
+    "Description": "RESPIRATORY NEOPLASMS W CC",
+    "Average Cost": "$32,794 "
+  },
+  {
+    "DRG Code": 183,
+    "Description": "MAJOR CHEST TRAUMA W MCC",
+    "Average Cost": "$70,580 "
+  },
+  {
+    "DRG Code": 184,
+    "Description": "MAJOR CHEST TRAUMA W CC",
+    "Average Cost": "$44,018 "
+  },
+  {
+    "DRG Code": 185,
+    "Description": "MAJOR CHEST TRAUMA W/O CC/MCC",
+    "Average Cost": "$29,110 "
+  },
+  {
+    "DRG Code": 186,
+    "Description": "PLEURAL EFFUSION W MCC",
+    "Average Cost": "$52,594 "
+  },
+  {
+    "DRG Code": 187,
+    "Description": "PLEURAL EFFUSION W CC",
+    "Average Cost": "$22,847 "
+  },
+  {
+    "DRG Code": 189,
+    "Description": "PULMONARY EDEMA & RESPIRATORY FAILURE",
+    "Average Cost": "$43,968 "
+  },
+  {
+    "DRG Code": 190,
+    "Description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE W MCC",
+    "Average Cost": "$41,652 "
+  },
+  {
+    "DRG Code": 191,
+    "Description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE W CC",
+    "Average Cost": "$33,285 "
+  },
+  {
+    "DRG Code": 192,
+    "Description": "CHRONIC OBSTRUCTIVE PULMONARY DISEASE W/O CC/MCC",
+    "Average Cost": "$24,029 "
+  },
+  {
+    "DRG Code": 193,
+    "Description": "SIMPLE PNEUMONIA & PLEURISY W MCC",
+    "Average Cost": "$44,931 "
+  },
+  {
+    "DRG Code": 194,
+    "Description": "SIMPLE PNEUMONIA & PLEURISY W CC",
+    "Average Cost": "$27,763 "
+  },
+  {
+    "DRG Code": 195,
+    "Description": "SIMPLE PNEUMONIA & PLEURISY W/O CC/MCC",
+    "Average Cost": "$18,614 "
+  },
+  {
+    "DRG Code": 196,
+    "Description": "INTERSTITIAL LUNG DISEASE W MCC",
+    "Average Cost": "$50,077 "
+  },
+  {
+    "DRG Code": 197,
+    "Description": "INTERSTITIAL LUNG DISEASE W CC",
+    "Average Cost": "$41,032 "
+  },
+  {
+    "DRG Code": 198,
+    "Description": "INTERSTITIAL LUNG DISEASE W/O CC/MCC",
+    "Average Cost": "$22,656 "
+  },
+  {
+    "DRG Code": 199,
+    "Description": "PNEUMOTHORAX W MCC",
+    "Average Cost": "$73,513 "
+  },
+  {
+    "DRG Code": 200,
+    "Description": "PNEUMOTHORAX W CC",
+    "Average Cost": "$45,944 "
+  },
+  {
+    "DRG Code": 201,
+    "Description": "PNEUMOTHORAX W/O CC/MCC",
+    "Average Cost": "$33,894 "
+  },
+  {
+    "DRG Code": 202,
+    "Description": "BRONCHITIS & ASTHMA W CC/MCC",
+    "Average Cost": "$28,313 "
+  },
+  {
+    "DRG Code": 203,
+    "Description": "BRONCHITIS & ASTHMA W/O CC/MCC",
+    "Average Cost": "$16,789 "
+  },
+  {
+    "DRG Code": 204,
+    "Description": "RESPIRATORY SIGNS & SYMPTOMS",
+    "Average Cost": "$30,034 "
+  },
+  {
+    "DRG Code": 205,
+    "Description": "OTHER RESPIRATORY SYSTEM DIAGNOSES W MCC",
+    "Average Cost": "$54,958 "
+  },
+  {
+    "DRG Code": 206,
+    "Description": "OTHER RESPIRATORY SYSTEM DIAGNOSES W/O MCC",
+    "Average Cost": "$26,983 "
+  },
+  {
+    "DRG Code": 207,
+    "Description": "RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT >96 HOURS OR PERIPHERAL EXTRACORPOREAL MEMBRANE OX",
+    "Average Cost": "$194,815 "
+  },
+  {
+    "DRG Code": 208,
+    "Description": "RESPIRATORY SYSTEM DIAGNOSIS W VENTILATOR SUPPORT <=96 HOURS",
+    "Average Cost": "$81,302 "
+  },
+  {
+    "DRG Code": 215,
+    "Description": "OTHER HEART ASSIST SYSTEM IMPLANT",
+    "Average Cost": "$298,403 "
+  },
+  {
+    "DRG Code": 216,
+    "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W MCC",
+    "Average Cost": "$480,139 "
+  },
+  {
+    "DRG Code": 217,
+    "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W CC",
+    "Average Cost": "$304,971 "
+  },
+  {
+    "DRG Code": 218,
+    "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W CARD CATH W/O CC/MCC",
+    "Average Cost": "$291,585 "
+  },
+  {
+    "DRG Code": 219,
+    "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W MCC",
+    "Average Cost": "$348,879 "
+  },
+  {
+    "DRG Code": 220,
+    "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W CC",
+    "Average Cost": "$227,012 "
+  },
+  {
+    "DRG Code": 221,
+    "Description": "CARDIAC VALVE & OTH MAJ CARDIOTHORACIC PROC W/O CARD CATH W/O CC/MCC",
+    "Average Cost": "$141,642 "
+  },
+  {
+    "DRG Code": 222,
+    "Description": "CARDIAC DEFIB IMPLANT W CARDIAC CATH W AMI/HF/SHOCK W MCC",
+    "Average Cost": "$256,243 "
+  },
+  {
+    "DRG Code": 224,
+    "Description": "CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W MCC",
+    "Average Cost": "$312,409 "
+  },
+  {
+    "DRG Code": 225,
+    "Description": "CARDIAC DEFIB IMPLANT W CARDIAC CATH W/O AMI/HF/SHOCK W/O MCC",
+    "Average Cost": "$218,273 "
+  },
+  {
+    "DRG Code": 226,
+    "Description": "CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W MCC",
+    "Average Cost": "$307,784 "
+  },
+  {
+    "DRG Code": 227,
+    "Description": "CARDIAC DEFIBRILLATOR IMPLANT W/O CARDIAC CATH W/O MCC",
+    "Average Cost": "$236,480 "
+  },
+  {
+    "DRG Code": 228,
+    "Description": "OTHER CARDIOTHORACIC PROCEDURES W MCC",
+    "Average Cost": "$271,389 "
+  },
+  {
+    "DRG Code": 229,
+    "Description": "OTHER CARDIOTHORACIC PROCEDURES W/O MCC",
+    "Average Cost": "$195,626 "
+  },
+  {
+    "DRG Code": 231,
+    "Description": "CORONARY BYPASS W PTCA W MCC",
+    "Average Cost": "$331,150 "
+  },
+  {
+    "DRG Code": 232,
+    "Description": "CORONARY BYPASS W PTCA W/O MCC",
+    "Average Cost": "$314,506 "
+  },
+  {
+    "DRG Code": 233,
+    "Description": "CORONARY BYPASS W CARDIAC CATH W MCC",
+    "Average Cost": "$338,997 "
+  },
+  {
+    "DRG Code": 234,
+    "Description": "CORONARY BYPASS W CARDIAC CATH W/O MCC",
+    "Average Cost": "$272,779 "
+  },
+  {
+    "DRG Code": 235,
+    "Description": "CORONARY BYPASS W/O CARDIAC CATH W MCC",
+    "Average Cost": "$221,551 "
+  },
+  {
+    "DRG Code": 236,
+    "Description": "CORONARY BYPASS W/O CARDIAC CATH W/O MCC",
+    "Average Cost": "$209,524 "
+  },
+  {
+    "DRG Code": 239,
+    "Description": "AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W MCC",
+    "Average Cost": "$185,381 "
+  },
+  {
+    "DRG Code": 240,
+    "Description": "AMPUTATION FOR CIRC SYS DISORDERS EXC UPPER LIMB & TOE W CC",
+    "Average Cost": "$77,794 "
+  },
+  {
+    "DRG Code": 242,
+    "Description": "PERMANENT CARDIAC PACEMAKER IMPLANT W MCC",
+    "Average Cost": "$154,636 "
+  },
+  {
+    "DRG Code": 243,
+    "Description": "PERMANENT CARDIAC PACEMAKER IMPLANT W CC",
+    "Average Cost": "$148,454 "
+  },
+  {
+    "DRG Code": 244,
+    "Description": "PERMANENT CARDIAC PACEMAKER IMPLANT W/O CC/MCC",
+    "Average Cost": "$107,313 "
+  },
+  {
+    "DRG Code": 245,
+    "Description": "AICD GENERATOR PROCEDURES",
+    "Average Cost": "$240,487 "
+  },
+  {
+    "DRG Code": 246,
+    "Description": "PERCUTANEOUS CARDIOVASCULAR PROCEDURES W DRUG-ELUTING STENT W MCC OR 4+ ARTERIES OR STENTS",
+    "Average Cost": "$132,700 "
+  },
+  {
+    "DRG Code": 247,
+    "Description": "PERC CARDIOVASC PROC W DRUG-ELUTING STENT W/O MCC",
+    "Average Cost": "$80,280 "
+  },
+  {
+    "DRG Code": 249,
+    "Description": "PERC CARDIOVASC PROC W NON-DRUG-ELUTING STENT W/O MCC",
+    "Average Cost": "$73,043 "
+  },
+  {
+    "DRG Code": 250,
+    "Description": "PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W MCC",
+    "Average Cost": "$109,581 "
+  },
+  {
+    "DRG Code": 251,
+    "Description": "PERC CARDIOVASC PROC W/O CORONARY ARTERY STENT W/O MCC",
+    "Average Cost": "$74,364 "
+  },
+  {
+    "DRG Code": 252,
+    "Description": "OTHER VASCULAR PROCEDURES W MCC",
+    "Average Cost": "$125,869 "
+  },
+  {
+    "DRG Code": 253,
+    "Description": "OTHER VASCULAR PROCEDURES W CC",
+    "Average Cost": "$115,621 "
+  },
+  {
+    "DRG Code": 254,
+    "Description": "OTHER VASCULAR PROCEDURES W/O CC/MCC",
+    "Average Cost": "$79,026 "
+  },
+  {
+    "DRG Code": 256,
+    "Description": "UPPER LIMB & TOE AMPUTATION FOR CIRC SYSTEM DISORDERS W CC",
+    "Average Cost": "$46,982 "
+  },
+  {
+    "DRG Code": 260,
+    "Description": "CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W MCC",
+    "Average Cost": "$175,482 "
+  },
+  {
+    "DRG Code": 261,
+    "Description": "CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W CC",
+    "Average Cost": "$59,038 "
+  },
+  {
+    "DRG Code": 262,
+    "Description": "CARDIAC PACEMAKER REVISION EXCEPT DEVICE REPLACEMENT W/O CC/MCC",
+    "Average Cost": "$49,681 "
+  },
+  {
+    "DRG Code": 264,
+    "Description": "OTHER CIRCULATORY SYSTEM O.R. PROCEDURES",
+    "Average Cost": "$153,367 "
+  },
+  {
+    "DRG Code": 265,
+    "Description": "AICD LEAD PROCEDURES",
+    "Average Cost": "$60,873 "
+  },
+  {
+    "DRG Code": 266,
+    "Description": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT W MCC",
+    "Average Cost": "$211,222 "
+  },
+  {
+    "DRG Code": 267,
+    "Description": "ENDOVASCULAR CARDIAC VALVE REPLACEMENT W/O MCC",
+    "Average Cost": "$150,285 "
+  },
+  {
+    "DRG Code": 268,
+    "Description": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W MCC",
+    "Average Cost": "$399,289 "
+  },
+  {
+    "DRG Code": 269,
+    "Description": "AORTIC AND HEART ASSIST PROCEDURES EXCEPT PULSATION BALLOON W/O MCC",
+    "Average Cost": "$161,008 "
+  },
+  {
+    "DRG Code": 270,
+    "Description": "OTHER MAJOR CARDIOVASCULAR PROCEDURES W MCC",
+    "Average Cost": "$195,405 "
+  },
+  {
+    "DRG Code": 271,
+    "Description": "OTHER MAJOR CARDIOVASCULAR PROCEDURES W CC",
+    "Average Cost": "$131,698 "
+  },
+  {
+    "DRG Code": 272,
+    "Description": "OTHER MAJOR CARDIOVASCULAR PROCEDURES W/O CC/MCC",
+    "Average Cost": "$130,205 "
+  },
+  {
+    "DRG Code": 273,
+    "Description": "PERCUTANEOUS INTRACARDIAC PROCEDURES W MCC",
+    "Average Cost": "$144,143 "
+  },
+  {
+    "DRG Code": 274,
+    "Description": "PERCUTANEOUS INTRACARDIAC PROCEDURES W/O MCC",
+    "Average Cost": "$101,252 "
+  },
+  {
+    "DRG Code": 280,
+    "Description": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W MCC",
+    "Average Cost": "$77,377 "
+  },
+  {
+    "DRG Code": 281,
+    "Description": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W CC",
+    "Average Cost": "$45,889 "
+  },
+  {
+    "DRG Code": 282,
+    "Description": "ACUTE MYOCARDIAL INFARCTION, DISCHARGED ALIVE W/O CC/MCC",
+    "Average Cost": "$42,765 "
+  },
+  {
+    "DRG Code": 283,
+    "Description": "ACUTE MYOCARDIAL INFARCTION, EXPIRED W MCC",
+    "Average Cost": "$115,697 "
+  },
+  {
+    "DRG Code": 286,
+    "Description": "CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W MCC",
+    "Average Cost": "$89,425 "
+  },
+  {
+    "DRG Code": 287,
+    "Description": "CIRCULATORY DISORDERS EXCEPT AMI, W CARD CATH W/O MCC",
+    "Average Cost": "$52,723 "
+  },
+  {
+    "DRG Code": 288,
+    "Description": "ACUTE & SUBACUTE ENDOCARDITIS W MCC",
+    "Average Cost": "$64,356 "
+  },
+  {
+    "DRG Code": 289,
+    "Description": "ACUTE & SUBACUTE ENDOCARDITIS W CC",
+    "Average Cost": "$81,699 "
+  },
+  {
+    "DRG Code": 290,
+    "Description": "ACUTE & SUBACUTE ENDOCARDITIS W/O CC/MCC",
+    "Average Cost": "$34,278 "
+  },
+  {
+    "DRG Code": 291,
+    "Description": "HEART FAILURE & SHOCK W MCC OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)",
+    "Average Cost": "$45,046 "
+  },
+  {
+    "DRG Code": 292,
+    "Description": "HEART FAILURE & SHOCK W CC",
+    "Average Cost": "$30,221 "
+  },
+  {
+    "DRG Code": 293,
+    "Description": "HEART FAILURE & SHOCK W/O CC/MCC",
+    "Average Cost": "$21,216 "
+  },
+  {
+    "DRG Code": 296,
+    "Description": "CARDIAC ARREST, UNEXPLAINED W MCC OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)",
+    "Average Cost": "$83,867 "
+  },
+  {
+    "DRG Code": 297,
+    "Description": "CARDIAC ARREST, UNEXPLAINED W CC",
+    "Average Cost": "$19,062 "
+  },
+  {
+    "DRG Code": 299,
+    "Description": "PERIPHERAL VASCULAR DISORDERS W MCC",
+    "Average Cost": "$44,310 "
+  },
+  {
+    "DRG Code": 300,
+    "Description": "PERIPHERAL VASCULAR DISORDERS W CC",
+    "Average Cost": "$34,699 "
+  },
+  {
+    "DRG Code": 301,
+    "Description": "PERIPHERAL VASCULAR DISORDERS W/O CC/MCC",
+    "Average Cost": "$18,556 "
+  },
+  {
+    "DRG Code": 302,
+    "Description": "ATHEROSCLEROSIS W MCC",
+    "Average Cost": "$34,505 "
+  },
+  {
+    "DRG Code": 303,
+    "Description": "ATHEROSCLEROSIS W/O MCC",
+    "Average Cost": "$21,980 "
+  },
+  {
+    "DRG Code": 304,
+    "Description": "HYPERTENSION W MCC",
+    "Average Cost": "$38,278 "
+  },
+  {
+    "DRG Code": 305,
+    "Description": "HYPERTENSION W/O MCC",
+    "Average Cost": "$28,453 "
+  },
+  {
+    "DRG Code": 306,
+    "Description": "CARDIAC CONGENITAL & VALVULAR DISORDERS W MCC",
+    "Average Cost": "$31,423 "
+  },
+  {
+    "DRG Code": 307,
+    "Description": "CARDIAC CONGENITAL & VALVULAR DISORDERS W/O MCC",
+    "Average Cost": "$27,633 "
+  },
+  {
+    "DRG Code": 308,
+    "Description": "CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W MCC",
+    "Average Cost": "$52,954 "
+  },
+  {
+    "DRG Code": 309,
+    "Description": "CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W CC",
+    "Average Cost": "$31,677 "
+  },
+  {
+    "DRG Code": 310,
+    "Description": "CARDIAC ARRHYTHMIA & CONDUCTION DISORDERS W/O CC/MCC",
+    "Average Cost": "$22,913 "
+  },
+  {
+    "DRG Code": 311,
+    "Description": "ANGINA PECTORIS",
+    "Average Cost": "$26,328 "
+  },
+  {
+    "DRG Code": 312,
+    "Description": "SYNCOPE & COLLAPSE",
+    "Average Cost": "$33,265 "
+  },
+  {
+    "DRG Code": 313,
+    "Description": "CHEST PAIN",
+    "Average Cost": "$27,078 "
+  },
+  {
+    "DRG Code": 314,
+    "Description": "OTHER CIRCULATORY SYSTEM DIAGNOSES W MCC",
+    "Average Cost": "$67,542 "
+  },
+  {
+    "DRG Code": 315,
+    "Description": "OTHER CIRCULATORY SYSTEM DIAGNOSES W CC",
+    "Average Cost": "$33,419 "
+  },
+  {
+    "DRG Code": 316,
+    "Description": "OTHER CIRCULATORY SYSTEM DIAGNOSES W/O CC/MCC",
+    "Average Cost": "$23,473 "
+  },
+  {
+    "DRG Code": 326,
+    "Description": "STOMACH, ESOPHAGEAL & DUODENAL PROC W MCC",
+    "Average Cost": "$201,272 "
+  },
+  {
+    "DRG Code": 327,
+    "Description": "STOMACH, ESOPHAGEAL & DUODENAL PROC W CC",
+    "Average Cost": "$157,877 "
+  },
+  {
+    "DRG Code": 328,
+    "Description": "STOMACH, ESOPHAGEAL & DUODENAL PROC W/O CC/MCC",
+    "Average Cost": "$89,166 "
+  },
+  {
+    "DRG Code": 329,
+    "Description": "MAJOR SMALL & LARGE BOWEL PROCEDURES W MCC",
+    "Average Cost": "$201,754 "
+  },
+  {
+    "DRG Code": 330,
+    "Description": "MAJOR SMALL & LARGE BOWEL PROCEDURES W CC",
+    "Average Cost": "$125,508 "
+  },
+  {
+    "DRG Code": 331,
+    "Description": "MAJOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$92,786 "
+  },
+  {
+    "DRG Code": 335,
+    "Description": "PERITONEAL ADHESIOLYSIS W MCC",
+    "Average Cost": "$146,423 "
+  },
+  {
+    "DRG Code": 336,
+    "Description": "PERITONEAL ADHESIOLYSIS W CC",
+    "Average Cost": "$96,980 "
+  },
+  {
+    "DRG Code": 337,
+    "Description": "PERITONEAL ADHESIOLYSIS W/O CC/MCC",
+    "Average Cost": "$77,688 "
+  },
+  {
+    "DRG Code": 338,
+    "Description": "APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W MCC",
+    "Average Cost": "$87,068 "
+  },
+  {
+    "DRG Code": 339,
+    "Description": "APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W CC",
+    "Average Cost": "$58,749 "
+  },
+  {
+    "DRG Code": 340,
+    "Description": "APPENDECTOMY W COMPLICATED PRINCIPAL DIAG W/O CC/MCC",
+    "Average Cost": "$51,292 "
+  },
+  {
+    "DRG Code": 341,
+    "Description": "APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W MCC",
+    "Average Cost": "$66,503 "
+  },
+  {
+    "DRG Code": 342,
+    "Description": "APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W CC",
+    "Average Cost": "$81,873 "
+  },
+  {
+    "DRG Code": 343,
+    "Description": "APPENDECTOMY W/O COMPLICATED PRINCIPAL DIAG W/O CC/MCC",
+    "Average Cost": "$55,282 "
+  },
+  {
+    "DRG Code": 344,
+    "Description": "MINOR SMALL & LARGE BOWEL PROCEDURES W MCC",
+    "Average Cost": "$176,513 "
+  },
+  {
+    "DRG Code": 345,
+    "Description": "MINOR SMALL & LARGE BOWEL PROCEDURES W CC",
+    "Average Cost": "$88,530 "
+  },
+  {
+    "DRG Code": 346,
+    "Description": "MINOR SMALL & LARGE BOWEL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$40,467 "
+  },
+  {
+    "DRG Code": 347,
+    "Description": "ANAL & STOMAL PROCEDURES W MCC",
+    "Average Cost": "$69,727 "
+  },
+  {
+    "DRG Code": 348,
+    "Description": "ANAL & STOMAL PROCEDURES W CC",
+    "Average Cost": "$51,033 "
+  },
+  {
+    "DRG Code": 349,
+    "Description": "ANAL & STOMAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$50,792 "
+  },
+  {
+    "DRG Code": 350,
+    "Description": "INGUINAL & FEMORAL HERNIA PROCEDURES W MCC",
+    "Average Cost": "$66,758 "
+  },
+  {
+    "DRG Code": 351,
+    "Description": "INGUINAL & FEMORAL HERNIA PROCEDURES W CC",
+    "Average Cost": "$97,288 "
+  },
+  {
+    "DRG Code": 352,
+    "Description": "INGUINAL & FEMORAL HERNIA PROCEDURES W/O CC/MCC",
+    "Average Cost": "$47,462 "
+  },
+  {
+    "DRG Code": 353,
+    "Description": "HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W MCC",
+    "Average Cost": "$149,016 "
+  },
+  {
+    "DRG Code": 354,
+    "Description": "HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W CC",
+    "Average Cost": "$88,295 "
+  },
+  {
+    "DRG Code": 355,
+    "Description": "HERNIA PROCEDURES EXCEPT INGUINAL & FEMORAL W/O CC/MCC",
+    "Average Cost": "$64,788 "
+  },
+  {
+    "DRG Code": 356,
+    "Description": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W MCC",
+    "Average Cost": "$116,796 "
+  },
+  {
+    "DRG Code": 357,
+    "Description": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W CC",
+    "Average Cost": "$87,994 "
+  },
+  {
+    "DRG Code": 358,
+    "Description": "OTHER DIGESTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC",
+    "Average Cost": "$82,927 "
+  },
+  {
+    "DRG Code": 368,
+    "Description": "MAJOR ESOPHAGEAL DISORDERS W MCC",
+    "Average Cost": "$44,163 "
+  },
+  {
+    "DRG Code": 369,
+    "Description": "MAJOR ESOPHAGEAL DISORDERS W CC",
+    "Average Cost": "$38,203 "
+  },
+  {
+    "DRG Code": 370,
+    "Description": "MAJOR ESOPHAGEAL DISORDERS W/O CC/MCC",
+    "Average Cost": "$10,499 "
+  },
+  {
+    "DRG Code": 371,
+    "Description": "MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W MCC",
+    "Average Cost": "$49,225 "
+  },
+  {
+    "DRG Code": 372,
+    "Description": "MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W CC",
+    "Average Cost": "$34,808 "
+  },
+  {
+    "DRG Code": 373,
+    "Description": "MAJOR GASTROINTESTINAL DISORDERS & PERITONEAL INFECTIONS W/O CC/MCC",
+    "Average Cost": "$22,565 "
+  },
+  {
+    "DRG Code": 374,
+    "Description": "DIGESTIVE MALIGNANCY W MCC",
+    "Average Cost": "$79,312 "
+  },
+  {
+    "DRG Code": 375,
+    "Description": "DIGESTIVE MALIGNANCY W CC",
+    "Average Cost": "$50,586 "
+  },
+  {
+    "DRG Code": 376,
+    "Description": "DIGESTIVE MALIGNANCY W/O CC/MCC",
+    "Average Cost": "$70,910 "
+  },
+  {
+    "DRG Code": 377,
+    "Description": "G.I. HEMORRHAGE W MCC",
+    "Average Cost": "$75,173 "
+  },
+  {
+    "DRG Code": 378,
+    "Description": "G.I. HEMORRHAGE W CC",
+    "Average Cost": "$35,813 "
+  },
+  {
+    "DRG Code": 379,
+    "Description": "G.I. HEMORRHAGE W/O CC/MCC",
+    "Average Cost": "$19,752 "
+  },
+  {
+    "DRG Code": 380,
+    "Description": "COMPLICATED PEPTIC ULCER W MCC",
+    "Average Cost": "$60,449 "
+  },
+  {
+    "DRG Code": 381,
+    "Description": "COMPLICATED PEPTIC ULCER W CC",
+    "Average Cost": "$52,173 "
+  },
+  {
+    "DRG Code": 382,
+    "Description": "COMPLICATED PEPTIC ULCER W/O CC/MCC",
+    "Average Cost": "$34,253 "
+  },
+  {
+    "DRG Code": 383,
+    "Description": "UNCOMPLICATED PEPTIC ULCER W MCC",
+    "Average Cost": "$262,513 "
+  },
+  {
+    "DRG Code": 384,
+    "Description": "UNCOMPLICATED PEPTIC ULCER W/O MCC",
+    "Average Cost": "$33,192 "
+  },
+  {
+    "DRG Code": 385,
+    "Description": "INFLAMMATORY BOWEL DISEASE W MCC",
+    "Average Cost": "$44,656 "
+  },
+  {
+    "DRG Code": 386,
+    "Description": "INFLAMMATORY BOWEL DISEASE W CC",
+    "Average Cost": "$34,198 "
+  },
+  {
+    "DRG Code": 387,
+    "Description": "INFLAMMATORY BOWEL DISEASE W/O CC/MCC",
+    "Average Cost": "$27,356 "
+  },
+  {
+    "DRG Code": 388,
+    "Description": "G.I. OBSTRUCTION W MCC",
+    "Average Cost": "$63,814 "
+  },
+  {
+    "DRG Code": 389,
+    "Description": "G.I. OBSTRUCTION W CC",
+    "Average Cost": "$36,989 "
+  },
+  {
+    "DRG Code": 390,
+    "Description": "G.I. OBSTRUCTION W/O CC/MCC",
+    "Average Cost": "$25,291 "
+  },
+  {
+    "DRG Code": 391,
+    "Description": "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W MCC",
+    "Average Cost": "$40,920 "
+  },
+  {
+    "DRG Code": 392,
+    "Description": "ESOPHAGITIS, GASTROENT & MISC DIGEST DISORDERS W/O MCC",
+    "Average Cost": "$29,031 "
+  },
+  {
+    "DRG Code": 393,
+    "Description": "OTHER DIGESTIVE SYSTEM DIAGNOSES W MCC",
+    "Average Cost": "$53,943 "
+  },
+  {
+    "DRG Code": 394,
+    "Description": "OTHER DIGESTIVE SYSTEM DIAGNOSES W CC",
+    "Average Cost": "$35,283 "
+  },
+  {
+    "DRG Code": 395,
+    "Description": "OTHER DIGESTIVE SYSTEM DIAGNOSES W/O CC/MCC",
+    "Average Cost": "$21,289 "
+  },
+  {
+    "DRG Code": 405,
+    "Description": "PANCREAS, LIVER & SHUNT PROCEDURES W MCC",
+    "Average Cost": "$215,754 "
+  },
+  {
+    "DRG Code": 406,
+    "Description": "PANCREAS, LIVER & SHUNT PROCEDURES W CC",
+    "Average Cost": "$155,676 "
+  },
+  {
+    "DRG Code": 407,
+    "Description": "PANCREAS, LIVER & SHUNT PROCEDURES W/O CC/MCC",
+    "Average Cost": "$87,390 "
+  },
+  {
+    "DRG Code": 409,
+    "Description": "BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W CC",
+    "Average Cost": "$175,748 "
+  },
+  {
+    "DRG Code": 410,
+    "Description": "BILIARY TRACT PROC EXCEPT ONLY CHOLECYST W OR W/O C.D.E. W/O CC/MCC",
+    "Average Cost": "$82,741 "
+  },
+  {
+    "DRG Code": 412,
+    "Description": "CHOLECYSTECTOMY W C.D.E. W CC",
+    "Average Cost": "$112,064 "
+  },
+  {
+    "DRG Code": 413,
+    "Description": "CHOLECYSTECTOMY W C.D.E. W/O CC/MCC",
+    "Average Cost": "$96,992 "
+  },
+  {
+    "DRG Code": 414,
+    "Description": "CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W MCC",
+    "Average Cost": "$70,536 "
+  },
+  {
+    "DRG Code": 415,
+    "Description": "CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W CC",
+    "Average Cost": "$94,353 "
+  },
+  {
+    "DRG Code": 416,
+    "Description": "CHOLECYSTECTOMY EXCEPT BY LAPAROSCOPE W/O C.D.E. W/O CC/MCC",
+    "Average Cost": "$75,783 "
+  },
+  {
+    "DRG Code": 417,
+    "Description": "LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W MCC",
+    "Average Cost": "$98,061 "
+  },
+  {
+    "DRG Code": 418,
+    "Description": "LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W CC",
+    "Average Cost": "$78,685 "
+  },
+  {
+    "DRG Code": 419,
+    "Description": "LAPAROSCOPIC CHOLECYSTECTOMY W/O C.D.E. W/O CC/MCC",
+    "Average Cost": "$63,115 "
+  },
+  {
+    "DRG Code": 420,
+    "Description": "HEPATOBILIARY DIAGNOSTIC PROCEDURES W MCC",
+    "Average Cost": "$115,203 "
+  },
+  {
+    "DRG Code": 421,
+    "Description": "HEPATOBILIARY DIAGNOSTIC PROCEDURES W CC",
+    "Average Cost": "$92,659 "
+  },
+  {
+    "DRG Code": 422,
+    "Description": "HEPATOBILIARY DIAGNOSTIC PROCEDURES W/O CC/MCC",
+    "Average Cost": "$110,774 "
+  },
+  {
+    "DRG Code": 423,
+    "Description": "OTHER HEPATOBILIARY OR PANCREAS O.R. PROCEDURES W MCC",
+    "Average Cost": "$263,854 "
+  },
+  {
+    "DRG Code": 432,
+    "Description": "CIRRHOSIS & ALCOHOLIC HEPATITIS W MCC",
+    "Average Cost": "$68,771 "
+  },
+  {
+    "DRG Code": 433,
+    "Description": "CIRRHOSIS & ALCOHOLIC HEPATITIS W CC",
+    "Average Cost": "$40,879 "
+  },
+  {
+    "DRG Code": 434,
+    "Description": "CIRRHOSIS & ALCOHOLIC HEPATITIS W/O CC/MCC",
+    "Average Cost": "$17,917 "
+  },
+  {
+    "DRG Code": 435,
+    "Description": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W MCC",
+    "Average Cost": "$51,231 "
+  },
+  {
+    "DRG Code": 436,
+    "Description": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W CC",
+    "Average Cost": "$62,899 "
+  },
+  {
+    "DRG Code": 437,
+    "Description": "MALIGNANCY OF HEPATOBILIARY SYSTEM OR PANCREAS W/O CC/MCC",
+    "Average Cost": "$101,356 "
+  },
+  {
+    "DRG Code": 438,
+    "Description": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY W MCC",
+    "Average Cost": "$45,732 "
+  },
+  {
+    "DRG Code": 439,
+    "Description": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY W CC",
+    "Average Cost": "$36,309 "
+  },
+  {
+    "DRG Code": 440,
+    "Description": "DISORDERS OF PANCREAS EXCEPT MALIGNANCY W/O CC/MCC",
+    "Average Cost": "$25,422 "
+  },
+  {
+    "DRG Code": 441,
+    "Description": "DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W MCC",
+    "Average Cost": "$81,366 "
+  },
+  {
+    "DRG Code": 442,
+    "Description": "DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W CC",
+    "Average Cost": "$36,071 "
+  },
+  {
+    "DRG Code": 443,
+    "Description": "DISORDERS OF LIVER EXCEPT MALIG,CIRR,ALC HEPA W/O CC/MCC",
+    "Average Cost": "$28,434 "
+  },
+  {
+    "DRG Code": 444,
+    "Description": "DISORDERS OF THE BILIARY TRACT W MCC",
+    "Average Cost": "$97,463 "
+  },
+  {
+    "DRG Code": 445,
+    "Description": "DISORDERS OF THE BILIARY TRACT W CC",
+    "Average Cost": "$45,803 "
+  },
+  {
+    "DRG Code": 446,
+    "Description": "DISORDERS OF THE BILIARY TRACT W/O CC/MCC",
+    "Average Cost": "$26,050 "
+  },
+  {
+    "DRG Code": 454,
+    "Description": "COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W CC",
+    "Average Cost": "$684,417 "
+  },
+  {
+    "DRG Code": 455,
+    "Description": "COMBINED ANTERIOR/POSTERIOR SPINAL FUSION W/O CC/MCC",
+    "Average Cost": "$346,116 "
+  },
+  {
+    "DRG Code": 456,
+    "Description": "SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W MCC",
+    "Average Cost": "$409,299 "
+  },
+  {
+    "DRG Code": 457,
+    "Description": "SPINAL FUS EXC CERV W SPINAL CURV/MALIG/INFEC OR EXT FUS W CC",
+    "Average Cost": "$262,295 "
+  },
+  {
+    "DRG Code": 459,
+    "Description": "SPINAL FUSION EXCEPT CERVICAL W MCC",
+    "Average Cost": "$376,963 "
+  },
+  {
+    "DRG Code": 460,
+    "Description": "SPINAL FUSION EXCEPT CERVICAL W/O MCC",
+    "Average Cost": "$193,639 "
+  },
+  {
+    "DRG Code": 463,
+    "Description": "WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W MCC",
+    "Average Cost": "$255,155 "
+  },
+  {
+    "DRG Code": 464,
+    "Description": "WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W CC",
+    "Average Cost": "$154,265 "
+  },
+  {
+    "DRG Code": 465,
+    "Description": "WND DEBRID & SKN GRFT EXC HAND, FOR MUSCULO-CONN TISS DIS W/O CC/MCC",
+    "Average Cost": "$120,060 "
+  },
+  {
+    "DRG Code": 467,
+    "Description": "REVISION OF HIP OR KNEE REPLACEMENT W CC",
+    "Average Cost": "$135,948 "
+  },
+  {
+    "DRG Code": 468,
+    "Description": "REVISION OF HIP OR KNEE REPLACEMENT W/O CC/MCC",
+    "Average Cost": "$96,557 "
+  },
+  {
+    "DRG Code": 469,
+    "Description": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W MCC OR TOTAL ANKLE REPLACE",
+    "Average Cost": "$143,153 "
+  },
+  {
+    "DRG Code": 470,
+    "Description": "MAJOR HIP AND KNEE JOINT REPLACEMENT OR REATTACHMENT OF LOWER EXTREMITY W/O MCC",
+    "Average Cost": "$97,107 "
+  },
+  {
+    "DRG Code": 471,
+    "Description": "CERVICAL SPINAL FUSION W MCC",
+    "Average Cost": "$202,096 "
+  },
+  {
+    "DRG Code": 472,
+    "Description": "CERVICAL SPINAL FUSION W CC",
+    "Average Cost": "$185,360 "
+  },
+  {
+    "DRG Code": 473,
+    "Description": "CERVICAL SPINAL FUSION W/O CC/MCC",
+    "Average Cost": "$158,148 "
+  },
+  {
+    "DRG Code": 474,
+    "Description": "AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W MCC",
+    "Average Cost": "$146,291 "
+  },
+  {
+    "DRG Code": 475,
+    "Description": "AMPUTATION FOR MUSCULOSKELETAL SYS & CONN TISSUE DIS W CC",
+    "Average Cost": "$84,832 "
+  },
+  {
+    "DRG Code": 477,
+    "Description": "BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC",
+    "Average Cost": "$23,946 "
+  },
+  {
+    "DRG Code": 478,
+    "Description": "BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC",
+    "Average Cost": "$95,505 "
+  },
+  {
+    "DRG Code": 479,
+    "Description": "BIOPSIES OF MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC",
+    "Average Cost": "$80,602 "
+  },
+  {
+    "DRG Code": 480,
+    "Description": "HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W MCC",
+    "Average Cost": "$194,735 "
+  },
+  {
+    "DRG Code": 481,
+    "Description": "HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W CC",
+    "Average Cost": "$123,993 "
+  },
+  {
+    "DRG Code": 482,
+    "Description": "HIP & FEMUR PROCEDURES EXCEPT MAJOR JOINT W/O CC/MCC",
+    "Average Cost": "$100,299 "
+  },
+  {
+    "DRG Code": 483,
+    "Description": "MAJOR JOINT/LIMB REATTACHMENT PROCEDURE OF UPPER EXTREMITIES",
+    "Average Cost": "$114,102 "
+  },
+  {
+    "DRG Code": 485,
+    "Description": "KNEE PROCEDURES W PDX OF INFECTION W MCC",
+    "Average Cost": "$108,063 "
+  },
+  {
+    "DRG Code": 487,
+    "Description": "KNEE PROCEDURES W PDX OF INFECTION W/O CC/MCC",
+    "Average Cost": "$46,877 "
+  },
+  {
+    "DRG Code": 488,
+    "Description": "KNEE PROCEDURES W/O PDX OF INFECTION W CC/MCC",
+    "Average Cost": "$136,585 "
+  },
+  {
+    "DRG Code": 489,
+    "Description": "KNEE PROCEDURES W/O PDX OF INFECTION W/O CC/MCC",
+    "Average Cost": "$90,662 "
+  },
+  {
+    "DRG Code": 492,
+    "Description": "LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W MCC",
+    "Average Cost": "$130,111 "
+  },
+  {
+    "DRG Code": 493,
+    "Description": "LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W CC",
+    "Average Cost": "$118,812 "
+  },
+  {
+    "DRG Code": 494,
+    "Description": "LOWER EXTREM & HUMER PROC EXCEPT HIP,FOOT,FEMUR W/O CC/MCC",
+    "Average Cost": "$85,943 "
+  },
+  {
+    "DRG Code": 495,
+    "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W MCC",
+    "Average Cost": "$106,646 "
+  },
+  {
+    "DRG Code": 496,
+    "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W CC",
+    "Average Cost": "$74,504 "
+  },
+  {
+    "DRG Code": 497,
+    "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES EXC HIP & FEMUR W/O CC/MCC",
+    "Average Cost": "$51,277 "
+  },
+  {
+    "DRG Code": 498,
+    "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W CC/MCC",
+    "Average Cost": "$105,422 "
+  },
+  {
+    "DRG Code": 499,
+    "Description": "LOCAL EXCISION & REMOVAL INT FIX DEVICES OF HIP & FEMUR W/O CC/MCC",
+    "Average Cost": "$45,361 "
+  },
+  {
+    "DRG Code": 500,
+    "Description": "SOFT TISSUE PROCEDURES W MCC",
+    "Average Cost": "$99,497 "
+  },
+  {
+    "DRG Code": 501,
+    "Description": "SOFT TISSUE PROCEDURES W CC",
+    "Average Cost": "$87,830 "
+  },
+  {
+    "DRG Code": 502,
+    "Description": "SOFT TISSUE PROCEDURES W/O CC/MCC",
+    "Average Cost": "$75,902 "
+  },
+  {
+    "DRG Code": 503,
+    "Description": "FOOT PROCEDURES W MCC",
+    "Average Cost": "$131,235 "
+  },
+  {
+    "DRG Code": 504,
+    "Description": "FOOT PROCEDURES W CC",
+    "Average Cost": "$59,466 "
+  },
+  {
+    "DRG Code": 505,
+    "Description": "FOOT PROCEDURES W/O CC/MCC",
+    "Average Cost": "$70,430 "
+  },
+  {
+    "DRG Code": 506,
+    "Description": "MAJOR THUMB OR JOINT PROCEDURES",
+    "Average Cost": "$115,510 "
+  },
+  {
+    "DRG Code": 507,
+    "Description": "MAJOR SHOULDER OR ELBOW JOINT PROCEDURES W CC/MCC",
+    "Average Cost": "$96,289 "
+  },
+  {
+    "DRG Code": 510,
+    "Description": "SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W MCC",
+    "Average Cost": "$114,777 "
+  },
+  {
+    "DRG Code": 511,
+    "Description": "SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W CC",
+    "Average Cost": "$92,796 "
+  },
+  {
+    "DRG Code": 512,
+    "Description": "SHOULDER,ELBOW OR FOREARM PROC,EXC MAJOR JOINT PROC W/O CC/MCC",
+    "Average Cost": "$80,635 "
+  },
+  {
+    "DRG Code": 513,
+    "Description": "HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W CC/MCC",
+    "Average Cost": "$67,375 "
+  },
+  {
+    "DRG Code": 514,
+    "Description": "HAND OR WRIST PROC, EXCEPT MAJOR THUMB OR JOINT PROC W/O CC/MCC",
+    "Average Cost": "$39,519 "
+  },
+  {
+    "DRG Code": 515,
+    "Description": "OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W MCC",
+    "Average Cost": "$171,239 "
+  },
+  {
+    "DRG Code": 516,
+    "Description": "OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W CC",
+    "Average Cost": "$127,512 "
+  },
+  {
+    "DRG Code": 517,
+    "Description": "OTHER MUSCULOSKELET SYS & CONN TISS O.R. PROC W/O CC/MCC",
+    "Average Cost": "$100,457 "
+  },
+  {
+    "DRG Code": 518,
+    "Description": "BACK & NECK PROC EXC SPINAL FUSION W MCC OR DISC DEVICE/NEUROSTIM",
+    "Average Cost": "$202,652 "
+  },
+  {
+    "DRG Code": 519,
+    "Description": "BACK & NECK PROC EXC SPINAL FUSION W CC",
+    "Average Cost": "$129,554 "
+  },
+  {
+    "DRG Code": 520,
+    "Description": "BACK & NECK PROC EXC SPINAL FUSION W/O CC/MCC",
+    "Average Cost": "$108,448 "
+  },
+  {
+    "DRG Code": 533,
+    "Description": "FRACTURES OF FEMUR W MCC",
+    "Average Cost": "$109,210 "
+  },
+  {
+    "DRG Code": 534,
+    "Description": "FRACTURES OF FEMUR W/O MCC",
+    "Average Cost": "$29,196 "
+  },
+  {
+    "DRG Code": 535,
+    "Description": "FRACTURES OF HIP & PELVIS W MCC",
+    "Average Cost": "$77,565 "
+  },
+  {
+    "DRG Code": 536,
+    "Description": "FRACTURES OF HIP & PELVIS W/O MCC",
+    "Average Cost": "$40,455 "
+  },
+  {
+    "DRG Code": 537,
+    "Description": "SPRAINS, STRAINS, & DISLOCATIONS OF HIP, PELVIS & THIGH W CC/MCC",
+    "Average Cost": "$37,817 "
+  },
+  {
+    "DRG Code": 539,
+    "Description": "OSTEOMYELITIS W MCC",
+    "Average Cost": "$134,577 "
+  },
+  {
+    "DRG Code": 540,
+    "Description": "OSTEOMYELITIS W CC",
+    "Average Cost": "$95,863 "
+  },
+  {
+    "DRG Code": 541,
+    "Description": "OSTEOMYELITIS W/O CC/MCC",
+    "Average Cost": "$45,000 "
+  },
+  {
+    "DRG Code": 542,
+    "Description": "PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W MCC",
+    "Average Cost": "$72,953 "
+  },
+  {
+    "DRG Code": 543,
+    "Description": "PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W CC",
+    "Average Cost": "$44,914 "
+  },
+  {
+    "DRG Code": 544,
+    "Description": "PATHOLOGICAL FRACTURES & MUSCULOSKELET & CONN TISS MALIG W/O CC/MCC",
+    "Average Cost": "$43,873 "
+  },
+  {
+    "DRG Code": 545,
+    "Description": "CONNECTIVE TISSUE DISORDERS W MCC",
+    "Average Cost": "$113,355 "
+  },
+  {
+    "DRG Code": 546,
+    "Description": "CONNECTIVE TISSUE DISORDERS W CC",
+    "Average Cost": "$30,315 "
+  },
+  {
+    "DRG Code": 547,
+    "Description": "CONNECTIVE TISSUE DISORDERS W/O CC/MCC",
+    "Average Cost": "$20,053 "
+  },
+  {
+    "DRG Code": 548,
+    "Description": "SEPTIC ARTHRITIS W MCC",
+    "Average Cost": "$63,745 "
+  },
+  {
+    "DRG Code": 549,
+    "Description": "SEPTIC ARTHRITIS W CC",
+    "Average Cost": "$46,571 "
+  },
+  {
+    "DRG Code": 550,
+    "Description": "SEPTIC ARTHRITIS W/O CC/MCC",
+    "Average Cost": "$22,118 "
+  },
+  {
+    "DRG Code": 551,
+    "Description": "MEDICAL BACK PROBLEMS W MCC",
+    "Average Cost": "$66,143 "
+  },
+  {
+    "DRG Code": 552,
+    "Description": "MEDICAL BACK PROBLEMS W/O MCC",
+    "Average Cost": "$45,168 "
+  },
+  {
+    "DRG Code": 553,
+    "Description": "BONE DISEASES & ARTHROPATHIES W MCC",
+    "Average Cost": "$84,901 "
+  },
+  {
+    "DRG Code": 554,
+    "Description": "BONE DISEASES & ARTHROPATHIES W/O MCC",
+    "Average Cost": "$28,995 "
+  },
+  {
+    "DRG Code": 555,
+    "Description": "SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W MCC",
+    "Average Cost": "$47,442 "
+  },
+  {
+    "DRG Code": 556,
+    "Description": "SIGNS & SYMPTOMS OF MUSCULOSKELETAL SYSTEM & CONN TISSUE W/O MCC",
+    "Average Cost": "$45,341 "
+  },
+  {
+    "DRG Code": 557,
+    "Description": "TENDONITIS, MYOSITIS & BURSITIS W MCC",
+    "Average Cost": "$60,570 "
+  },
+  {
+    "DRG Code": 558,
+    "Description": "TENDONITIS, MYOSITIS & BURSITIS W/O MCC",
+    "Average Cost": "$21,747 "
+  },
+  {
+    "DRG Code": 559,
+    "Description": "AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W MCC",
+    "Average Cost": "$89,532 "
+  },
+  {
+    "DRG Code": 560,
+    "Description": "AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W CC",
+    "Average Cost": "$70,356 "
+  },
+  {
+    "DRG Code": 561,
+    "Description": "AFTERCARE, MUSCULOSKELETAL SYSTEM & CONNECTIVE TISSUE W/O CC/MCC",
+    "Average Cost": "$45,549 "
+  },
+  {
+    "DRG Code": 562,
+    "Description": "FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W MCC",
+    "Average Cost": "$38,445 "
+  },
+  {
+    "DRG Code": 563,
+    "Description": "FX, SPRN, STRN & DISL EXCEPT FEMUR, HIP, PELVIS & THIGH W/O MCC",
+    "Average Cost": "$40,119 "
+  },
+  {
+    "DRG Code": 564,
+    "Description": "OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W MCC",
+    "Average Cost": "$59,158 "
+  },
+  {
+    "DRG Code": 565,
+    "Description": "OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W CC",
+    "Average Cost": "$34,201 "
+  },
+  {
+    "DRG Code": 566,
+    "Description": "OTHER MUSCULOSKELETAL SYS & CONNECTIVE TISSUE DIAGNOSES W/O CC/MCC",
+    "Average Cost": "$29,596 "
+  },
+  {
+    "DRG Code": 570,
+    "Description": "SKIN DEBRIDEMENT W MCC",
+    "Average Cost": "$76,335 "
+  },
+  {
+    "DRG Code": 571,
+    "Description": "SKIN DEBRIDEMENT W CC",
+    "Average Cost": "$47,158 "
+  },
+  {
+    "DRG Code": 572,
+    "Description": "SKIN DEBRIDEMENT W/O CC/MCC",
+    "Average Cost": "$42,260 "
+  },
+  {
+    "DRG Code": 573,
+    "Description": "SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W MCC",
+    "Average Cost": "$58,569 "
+  },
+  {
+    "DRG Code": 574,
+    "Description": "SKIN GRAFT FOR SKIN ULCER OR CELLULITIS W CC",
+    "Average Cost": "$44,678 "
+  },
+  {
+    "DRG Code": 576,
+    "Description": "SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W MCC",
+    "Average Cost": "$142,712 "
+  },
+  {
+    "DRG Code": 577,
+    "Description": "SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W CC",
+    "Average Cost": "$97,428 "
+  },
+  {
+    "DRG Code": 578,
+    "Description": "SKIN GRAFT EXC FOR SKIN ULCER OR CELLULITIS W/O CC/MCC",
+    "Average Cost": "$91,778 "
+  },
+  {
+    "DRG Code": 579,
+    "Description": "OTHER SKIN, SUBCUT TISS & BREAST PROC W MCC",
+    "Average Cost": "$59,964 "
+  },
+  {
+    "DRG Code": 580,
+    "Description": "OTHER SKIN, SUBCUT TISS & BREAST PROC W CC",
+    "Average Cost": "$43,278 "
+  },
+  {
+    "DRG Code": 581,
+    "Description": "OTHER SKIN, SUBCUT TISS & BREAST PROC W/O CC/MCC",
+    "Average Cost": "$45,202 "
+  },
+  {
+    "DRG Code": 582,
+    "Description": "MASTECTOMY FOR MALIGNANCY W CC/MCC",
+    "Average Cost": "$70,936 "
+  },
+  {
+    "DRG Code": 584,
+    "Description": "BREAST BIOPSY, LOCAL EXCISION & OTHER BREAST PROCEDURES W CC/MCC",
+    "Average Cost": "$48,690 "
+  },
+  {
+    "DRG Code": 585,
+    "Description": "BREAST BIOPSY, LOCAL EXCISION & OTHER BREAST PROCEDURES W/O CC/MCC",
+    "Average Cost": "$7,667 "
+  },
+  {
+    "DRG Code": 592,
+    "Description": "SKIN ULCERS W MCC",
+    "Average Cost": "$59,223 "
+  },
+  {
+    "DRG Code": 593,
+    "Description": "SKIN ULCERS W CC",
+    "Average Cost": "$55,410 "
+  },
+  {
+    "DRG Code": 595,
+    "Description": "MAJOR SKIN DISORDERS W MCC",
+    "Average Cost": "$57,177 "
+  },
+  {
+    "DRG Code": 596,
+    "Description": "MAJOR SKIN DISORDERS W/O MCC",
+    "Average Cost": "$26,328 "
+  },
+  {
+    "DRG Code": 597,
+    "Description": "MALIGNANT BREAST DISORDERS W MCC",
+    "Average Cost": "$71,694 "
+  },
+  {
+    "DRG Code": 598,
+    "Description": "MALIGNANT BREAST DISORDERS W CC",
+    "Average Cost": "$38,351 "
+  },
+  {
+    "DRG Code": 600,
+    "Description": "NON-MALIGNANT BREAST DISORDERS W CC/MCC",
+    "Average Cost": "$18,109 "
+  },
+  {
+    "DRG Code": 601,
+    "Description": "NON-MALIGNANT BREAST DISORDERS W/O CC/MCC",
+    "Average Cost": "$16,041 "
+  },
+  {
+    "DRG Code": 602,
+    "Description": "CELLULITIS W MCC",
+    "Average Cost": "$38,639 "
+  },
+  {
+    "DRG Code": 603,
+    "Description": "CELLULITIS W/O MCC",
+    "Average Cost": "$23,830 "
+  },
+  {
+    "DRG Code": 604,
+    "Description": "TRAUMA TO THE SKIN, SUBCUT TISS & BREAST W MCC",
+    "Average Cost": "$41,165 "
+  },
+  {
+    "DRG Code": 605,
+    "Description": "TRAUMA TO THE SKIN, SUBCUT TISS & BREAST W/O MCC",
+    "Average Cost": "$33,616 "
+  },
+  {
+    "DRG Code": 606,
+    "Description": "MINOR SKIN DISORDERS W MCC",
+    "Average Cost": "$32,486 "
+  },
+  {
+    "DRG Code": 607,
+    "Description": "MINOR SKIN DISORDERS W/O MCC",
+    "Average Cost": "$21,978 "
+  },
+  {
+    "DRG Code": 614,
+    "Description": "ADRENAL & PITUITARY PROCEDURES W CC/MCC",
+    "Average Cost": "$138,927 "
+  },
+  {
+    "DRG Code": 615,
+    "Description": "ADRENAL & PITUITARY PROCEDURES W/O CC/MCC",
+    "Average Cost": "$130,685 "
+  },
+  {
+    "DRG Code": 616,
+    "Description": "AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W MCC",
+    "Average Cost": "$208,742 "
+  },
+  {
+    "DRG Code": 617,
+    "Description": "AMPUTAT OF LOWER LIMB FOR ENDOCRINE,NUTRIT,& METABOL DIS W CC",
+    "Average Cost": "$87,410 "
+  },
+  {
+    "DRG Code": 621,
+    "Description": "O.R. PROCEDURES FOR OBESITY W/O CC/MCC",
+    "Average Cost": "$39,940 "
+  },
+  {
+    "DRG Code": 622,
+    "Description": "SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W MCC",
+    "Average Cost": "$177,001 "
+  },
+  {
+    "DRG Code": 623,
+    "Description": "SKIN GRAFTS & WOUND DEBRID FOR ENDOC, NUTRIT & METAB DIS W CC",
+    "Average Cost": "$74,638 "
+  },
+  {
+    "DRG Code": 625,
+    "Description": "THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W MCC",
+    "Average Cost": "$79,253 "
+  },
+  {
+    "DRG Code": 626,
+    "Description": "THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W CC",
+    "Average Cost": "$93,367 "
+  },
+  {
+    "DRG Code": 627,
+    "Description": "THYROID, PARATHYROID & THYROGLOSSAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$54,846 "
+  },
+  {
+    "DRG Code": 628,
+    "Description": "OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W MCC",
+    "Average Cost": "$162,271 "
+  },
+  {
+    "DRG Code": 629,
+    "Description": "OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W CC",
+    "Average Cost": "$89,324 "
+  },
+  {
+    "DRG Code": 630,
+    "Description": "OTHER ENDOCRINE, NUTRIT & METAB O.R. PROC W/O CC/MCC",
+    "Average Cost": "$170,318 "
+  },
+  {
+    "DRG Code": 637,
+    "Description": "DIABETES W MCC",
+    "Average Cost": "$43,232 "
+  },
+  {
+    "DRG Code": 638,
+    "Description": "DIABETES W CC",
+    "Average Cost": "$27,290 "
+  },
+  {
+    "DRG Code": 639,
+    "Description": "DIABETES W/O CC/MCC",
+    "Average Cost": "$21,743 "
+  },
+  {
+    "DRG Code": 640,
+    "Description": "MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W MCC",
+    "Average Cost": "$45,867 "
+  },
+  {
+    "DRG Code": 641,
+    "Description": "MISC DISORDERS OF NUTRITION,METABOLISM,FLUIDS/ELECTROLYTES W/O MCC",
+    "Average Cost": "$34,274 "
+  },
+  {
+    "DRG Code": 642,
+    "Description": "INBORN AND OTHER DISORDERS OF METABOLISM",
+    "Average Cost": "$35,736 "
+  },
+  {
+    "DRG Code": 643,
+    "Description": "ENDOCRINE DISORDERS W MCC",
+    "Average Cost": "$105,254 "
+  },
+  {
+    "DRG Code": 644,
+    "Description": "ENDOCRINE DISORDERS W CC",
+    "Average Cost": "$30,829 "
+  },
+  {
+    "DRG Code": 645,
+    "Description": "ENDOCRINE DISORDERS W/O CC/MCC",
+    "Average Cost": "$19,910 "
+  },
+  {
+    "DRG Code": 653,
+    "Description": "MAJOR BLADDER PROCEDURES W MCC",
+    "Average Cost": "$242,402 "
+  },
+  {
+    "DRG Code": 654,
+    "Description": "MAJOR BLADDER PROCEDURES W CC",
+    "Average Cost": "$151,280 "
+  },
+  {
+    "DRG Code": 656,
+    "Description": "KIDNEY & URETER PROCEDURES FOR NEOPLASM W MCC",
+    "Average Cost": "$128,363 "
+  },
+  {
+    "DRG Code": 657,
+    "Description": "KIDNEY & URETER PROCEDURES FOR NEOPLASM W CC",
+    "Average Cost": "$94,848 "
+  },
+  {
+    "DRG Code": 658,
+    "Description": "KIDNEY & URETER PROCEDURES FOR NEOPLASM W/O CC/MCC",
+    "Average Cost": "$87,727 "
+  },
+  {
+    "DRG Code": 659,
+    "Description": "KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W MCC",
+    "Average Cost": "$56,155 "
+  },
+  {
+    "DRG Code": 660,
+    "Description": "KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W CC",
+    "Average Cost": "$82,144 "
+  },
+  {
+    "DRG Code": 661,
+    "Description": "KIDNEY & URETER PROCEDURES FOR NON-NEOPLASM W/O CC/MCC",
+    "Average Cost": "$52,850 "
+  },
+  {
+    "DRG Code": 662,
+    "Description": "MINOR BLADDER PROCEDURES W MCC",
+    "Average Cost": "$62,969 "
+  },
+  {
+    "DRG Code": 663,
+    "Description": "MINOR BLADDER PROCEDURES W CC",
+    "Average Cost": "$80,982 "
+  },
+  {
+    "DRG Code": 664,
+    "Description": "MINOR BLADDER PROCEDURES W/O CC/MCC",
+    "Average Cost": "$51,148 "
+  },
+  {
+    "DRG Code": 668,
+    "Description": "TRANSURETHRAL PROCEDURES W MCC",
+    "Average Cost": "$105,867 "
+  },
+  {
+    "DRG Code": 669,
+    "Description": "TRANSURETHRAL PROCEDURES W CC",
+    "Average Cost": "$69,870 "
+  },
+  {
+    "DRG Code": 670,
+    "Description": "TRANSURETHRAL PROCEDURES W/O CC/MCC",
+    "Average Cost": "$38,829 "
+  },
+  {
+    "DRG Code": 671,
+    "Description": "URETHRAL PROCEDURES W CC/MCC",
+    "Average Cost": "$125,019 "
+  },
+  {
+    "DRG Code": 673,
+    "Description": "OTHER KIDNEY & URINARY TRACT PROCEDURES W MCC",
+    "Average Cost": "$137,482 "
+  },
+  {
+    "DRG Code": 674,
+    "Description": "OTHER KIDNEY & URINARY TRACT PROCEDURES W CC",
+    "Average Cost": "$158,445 "
+  },
+  {
+    "DRG Code": 682,
+    "Description": "RENAL FAILURE W MCC",
+    "Average Cost": "$47,779 "
+  },
+  {
+    "DRG Code": 683,
+    "Description": "RENAL FAILURE W CC",
+    "Average Cost": "$29,183 "
+  },
+  {
+    "DRG Code": 684,
+    "Description": "RENAL FAILURE W/O CC/MCC",
+    "Average Cost": "$19,983 "
+  },
+  {
+    "DRG Code": 686,
+    "Description": "KIDNEY & URINARY TRACT NEOPLASMS W MCC",
+    "Average Cost": "$85,987 "
+  },
+  {
+    "DRG Code": 687,
+    "Description": "KIDNEY & URINARY TRACT NEOPLASMS W CC",
+    "Average Cost": "$48,108 "
+  },
+  {
+    "DRG Code": 688,
+    "Description": "KIDNEY & URINARY TRACT NEOPLASMS W/O CC/MCC",
+    "Average Cost": "$125,948 "
+  },
+  {
+    "DRG Code": 689,
+    "Description": "KIDNEY & URINARY TRACT INFECTIONS W MCC",
+    "Average Cost": "$38,043 "
+  },
+  {
+    "DRG Code": 690,
+    "Description": "KIDNEY & URINARY TRACT INFECTIONS W/O MCC",
+    "Average Cost": "$27,294 "
+  },
+  {
+    "DRG Code": 693,
+    "Description": "URINARY STONES W/O ESW LITHOTRIPSY W MCC",
+    "Average Cost": "$174,204 "
+  },
+  {
+    "DRG Code": 694,
+    "Description": "URINARY STONES W/O ESW LITHOTRIPSY W/O MCC",
+    "Average Cost": "$27,547 "
+  },
+  {
+    "DRG Code": 695,
+    "Description": "KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W MCC",
+    "Average Cost": "$46,508 "
+  },
+  {
+    "DRG Code": 696,
+    "Description": "KIDNEY & URINARY TRACT SIGNS & SYMPTOMS W/O MCC",
+    "Average Cost": "$29,778 "
+  },
+  {
+    "DRG Code": 697,
+    "Description": "URETHRAL STRICTURE",
+    "Average Cost": "$35,569 "
+  },
+  {
+    "DRG Code": 698,
+    "Description": "OTHER KIDNEY & URINARY TRACT DIAGNOSES W MCC",
+    "Average Cost": "$60,526 "
+  },
+  {
+    "DRG Code": 699,
+    "Description": "OTHER KIDNEY & URINARY TRACT DIAGNOSES W CC",
+    "Average Cost": "$34,556 "
+  },
+  {
+    "DRG Code": 700,
+    "Description": "OTHER KIDNEY & URINARY TRACT DIAGNOSES W/O CC/MCC",
+    "Average Cost": "$22,710 "
+  },
+  {
+    "DRG Code": 707,
+    "Description": "MAJOR MALE PELVIC PROCEDURES W CC/MCC",
+    "Average Cost": "$96,517 "
+  },
+  {
+    "DRG Code": 708,
+    "Description": "MAJOR MALE PELVIC PROCEDURES W/O CC/MCC",
+    "Average Cost": "$104,470 "
+  },
+  {
+    "DRG Code": 709,
+    "Description": "PENIS PROCEDURES W CC/MCC",
+    "Average Cost": "$49,073 "
+  },
+  {
+    "DRG Code": 710,
+    "Description": "PENIS PROCEDURES W/O CC/MCC",
+    "Average Cost": "$52,192 "
+  },
+  {
+    "DRG Code": 711,
+    "Description": "TESTES PROCEDURES W CC/MCC",
+    "Average Cost": "$86,068 "
+  },
+  {
+    "DRG Code": 712,
+    "Description": "TESTES PROCEDURES W/O CC/MCC",
+    "Average Cost": "$44,046 "
+  },
+  {
+    "DRG Code": 713,
+    "Description": "TRANSURETHRAL PROSTATECTOMY W CC/MCC",
+    "Average Cost": "$51,755 "
+  },
+  {
+    "DRG Code": 715,
+    "Description": "OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W CC/MCC",
+    "Average Cost": "$63,166 "
+  },
+  {
+    "DRG Code": 716,
+    "Description": "OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC FOR MALIGNANCY W/O CC/MCC",
+    "Average Cost": "$99,942 "
+  },
+  {
+    "DRG Code": 717,
+    "Description": "OTHER MALE REPRODUCTIVE SYSTEM O.R. PROC EXC MALIGNANCY W CC/MCC",
+    "Average Cost": "$83,417 "
+  },
+  {
+    "DRG Code": 722,
+    "Description": "MALIGNANCY, MALE REPRODUCTIVE SYSTEM W MCC",
+    "Average Cost": "$66,778 "
+  },
+  {
+    "DRG Code": 723,
+    "Description": "MALIGNANCY, MALE REPRODUCTIVE SYSTEM W CC",
+    "Average Cost": "$26,828 "
+  },
+  {
+    "DRG Code": 725,
+    "Description": "BENIGN PROSTATIC HYPERTROPHY W MCC",
+    "Average Cost": "$23,922 "
+  },
+  {
+    "DRG Code": 726,
+    "Description": "BENIGN PROSTATIC HYPERTROPHY W/O MCC",
+    "Average Cost": "$29,145 "
+  },
+  {
+    "DRG Code": 727,
+    "Description": "INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W MCC",
+    "Average Cost": "$50,935 "
+  },
+  {
+    "DRG Code": 728,
+    "Description": "INFLAMMATION OF THE MALE REPRODUCTIVE SYSTEM W/O MCC",
+    "Average Cost": "$22,438 "
+  },
+  {
+    "DRG Code": 729,
+    "Description": "OTHER MALE REPRODUCTIVE SYSTEM DIAGNOSES W CC/MCC",
+    "Average Cost": "$19,214 "
+  },
+  {
+    "DRG Code": 734,
+    "Description": "PELVIC EVISCERATION, RAD HYSTERECTOMY & RAD VULVECTOMY W CC/MCC",
+    "Average Cost": "$106,258 "
+  },
+  {
+    "DRG Code": 735,
+    "Description": "PELVIC EVISCERATION, RAD HYSTERECTOMY & RAD VULVECTOMY W/O CC/MCC",
+    "Average Cost": "$95,084 "
+  },
+  {
+    "DRG Code": 736,
+    "Description": "UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W MCC",
+    "Average Cost": "$123,905 "
+  },
+  {
+    "DRG Code": 737,
+    "Description": "UTERINE & ADNEXA PROC FOR OVARIAN OR ADNEXAL MALIGNANCY W CC",
+    "Average Cost": "$133,497 "
+  },
+  {
+    "DRG Code": 739,
+    "Description": "UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W MCC",
+    "Average Cost": "$113,344 "
+  },
+  {
+    "DRG Code": 740,
+    "Description": "UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W CC",
+    "Average Cost": "$91,813 "
+  },
+  {
+    "DRG Code": 741,
+    "Description": "UTERINE,ADNEXA PROC FOR NON-OVARIAN/ADNEXAL MALIG W/O CC/MCC",
+    "Average Cost": "$82,178 "
+  },
+  {
+    "DRG Code": 742,
+    "Description": "UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W CC/MCC",
+    "Average Cost": "$96,362 "
+  },
+  {
+    "DRG Code": 743,
+    "Description": "UTERINE & ADNEXA PROC FOR NON-MALIGNANCY W/O CC/MCC",
+    "Average Cost": "$68,444 "
+  },
+  {
+    "DRG Code": 744,
+    "Description": "D&C, CONIZATION, LAPAROSCOPY & TUBAL INTERRUPTION W CC/MCC",
+    "Average Cost": "$46,030 "
+  },
+  {
+    "DRG Code": 745,
+    "Description": "D&C, CONIZATION, LAPAROSCOPY & TUBAL INTERRUPTION W/O CC/MCC",
+    "Average Cost": "$62,399 "
+  },
+  {
+    "DRG Code": 746,
+    "Description": "VAGINA, CERVIX & VULVA PROCEDURES W CC/MCC",
+    "Average Cost": "$56,722 "
+  },
+  {
+    "DRG Code": 747,
+    "Description": "VAGINA, CERVIX & VULVA PROCEDURES W/O CC/MCC",
+    "Average Cost": "$98,360 "
+  },
+  {
+    "DRG Code": 748,
+    "Description": "FEMALE REPRODUCTIVE SYSTEM RECONSTRUCTIVE PROCEDURES",
+    "Average Cost": "$89,399 "
+  },
+  {
+    "DRG Code": 749,
+    "Description": "OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W CC/MCC",
+    "Average Cost": "$91,217 "
+  },
+  {
+    "DRG Code": 750,
+    "Description": "OTHER FEMALE REPRODUCTIVE SYSTEM O.R. PROCEDURES W/O CC/MCC",
+    "Average Cost": "$40,931 "
+  },
+  {
+    "DRG Code": 754,
+    "Description": "MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W MCC",
+    "Average Cost": "$43,807 "
+  },
+  {
+    "DRG Code": 755,
+    "Description": "MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W CC",
+    "Average Cost": "$44,497 "
+  },
+  {
+    "DRG Code": 756,
+    "Description": "MALIGNANCY, FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC",
+    "Average Cost": "$50,960 "
+  },
+  {
+    "DRG Code": 757,
+    "Description": "INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W MCC",
+    "Average Cost": "$41,717 "
+  },
+  {
+    "DRG Code": 758,
+    "Description": "INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W CC",
+    "Average Cost": "$32,828 "
+  },
+  {
+    "DRG Code": 759,
+    "Description": "INFECTIONS, FEMALE REPRODUCTIVE SYSTEM W/O CC/MCC",
+    "Average Cost": "$25,667 "
+  },
+  {
+    "DRG Code": 760,
+    "Description": "MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W CC/MCC",
+    "Average Cost": "$32,551 "
+  },
+  {
+    "DRG Code": 761,
+    "Description": "MENSTRUAL & OTHER FEMALE REPRODUCTIVE SYSTEM DISORDERS W/O CC/MCC",
+    "Average Cost": "$16,488 "
+  },
+  {
+    "DRG Code": 765,
+    "Description": "CESAREAN SECTION W CC/MCC",
+    "Average Cost": "$22,237 "
+  },
+  {
+    "DRG Code": 766,
+    "Description": "CESAREAN SECTION W/O CC/MCC",
+    "Average Cost": "$15,285 "
+  },
+  {
+    "DRG Code": 767,
+    "Description": "VAGINAL DELIVERY W STERILIZATION &/OR D&C",
+    "Average Cost": "$18,916 "
+  },
+  {
+    "DRG Code": 768,
+    "Description": "VAGINAL DELIVERY W O.R. PROC EXCEPT STERIL &/OR D&C",
+    "Average Cost": "$17,170 "
+  },
+  {
+    "DRG Code": 769,
+    "Description": "POSTPARTUM & POST ABORTION DIAGNOSES W O.R. PROCEDURE",
+    "Average Cost": "$42,238 "
+  },
+  {
+    "DRG Code": 770,
+    "Description": "ABORTION W D&C, ASPIRATION CURETTAGE OR HYSTEROTOMY",
+    "Average Cost": "$19,599 "
+  },
+  {
+    "DRG Code": 774,
+    "Description": "VAGINAL DELIVERY W COMPLICATING DIAGNOSES",
+    "Average Cost": "$15,036 "
+  },
+  {
+    "DRG Code": 775,
+    "Description": "VAGINAL DELIVERY W/O COMPLICATING DIAGNOSES",
+    "Average Cost": "$11,944 "
+  },
+  {
+    "DRG Code": 776,
+    "Description": "POSTPARTUM & POST ABORTION DIAGNOSES W/O O.R. PROCEDURE",
+    "Average Cost": "$18,471 "
+  },
+  {
+    "DRG Code": 777,
+    "Description": "ECTOPIC PREGNANCY",
+    "Average Cost": "$44,713 "
+  },
+  {
+    "DRG Code": 778,
+    "Description": "THREATENED ABORTION",
+    "Average Cost": "$12,189 "
+  },
+  {
+    "DRG Code": 779,
+    "Description": "ABORTION W/O D&C",
+    "Average Cost": "$11,291 "
+  },
+  {
+    "DRG Code": 780,
+    "Description": "FALSE LABOR",
+    "Average Cost": "$9,098 "
+  },
+  {
+    "DRG Code": 781,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W MEDICAL COMPLICATIONS",
+    "Average Cost": "$16,231 "
+  },
+  {
+    "DRG Code": 782,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W/O MEDICAL COMPLICATIONS",
+    "Average Cost": "$9,100 "
+  },
+  {
+    "DRG Code": 783,
+    "Description": "CESAREAN SECTION W STERILIZATION W MCC",
+    "Average Cost": "$18,365 "
+  },
+  {
+    "DRG Code": 784,
+    "Description": "CESAREAN SECTION W STERILIZATION W CC",
+    "Average Cost": "$18,735 "
+  },
+  {
+    "DRG Code": 785,
+    "Description": "CESAREAN SECTION W STERILIZATION W/O CC/MCC",
+    "Average Cost": "$14,332 "
+  },
+  {
+    "DRG Code": 786,
+    "Description": "CESAREAN SECTION W/O STERILIZATION W MCC",
+    "Average Cost": "$21,595 "
+  },
+  {
+    "DRG Code": 787,
+    "Description": "CESAREAN SECTION W/O STERILIZATION W CC",
+    "Average Cost": "$16,782 "
+  },
+  {
+    "DRG Code": 788,
+    "Description": "CESAREAN SECTION W/O STERILIZATION W/O CC/MCC",
+    "Average Cost": "$15,443 "
+  },
+  {
+    "DRG Code": 789,
+    "Description": "NEONATES, DIED OR TRANSFERRED TO ANOTHER ACUTE CARE FACILITY",
+    "Average Cost": "$236,525 "
+  },
+  {
+    "DRG Code": 790,
+    "Description": "EXTREME IMMATURITY OR RESPIRATORY DISTRESS SYNDROME, NEONATE",
+    "Average Cost": "$259,992 "
+  },
+  {
+    "DRG Code": 791,
+    "Description": "PREMATURITY W MAJOR PROBLEMS",
+    "Average Cost": "$58,110 "
+  },
+  {
+    "DRG Code": 792,
+    "Description": "PREMATURITY W/O MAJOR PROBLEMS",
+    "Average Cost": "$17,493 "
+  },
+  {
+    "DRG Code": 793,
+    "Description": "FULL TERM NEONATE W MAJOR PROBLEMS",
+    "Average Cost": "$25,690 "
+  },
+  {
+    "DRG Code": 794,
+    "Description": "NEONATE W OTHER SIGNIFICANT PROBLEMS",
+    "Average Cost": "$7,300 "
+  },
+  {
+    "DRG Code": 795,
+    "Description": "NORMAL NEWBORN",
+    "Average Cost": "$5,327 "
+  },
+  {
+    "DRG Code": 797,
+    "Description": "VAGINAL DELIVERY W STERILIZATION/D&C W CC",
+    "Average Cost": "$19,501 "
+  },
+  {
+    "DRG Code": 798,
+    "Description": "VAGINAL DELIVERY W STERILIZATION/D&C WO CC/MCC",
+    "Average Cost": "$17,580 "
+  },
+  {
+    "DRG Code": 799,
+    "Description": "SPLENECTOMY W MCC",
+    "Average Cost": "$179,442 "
+  },
+  {
+    "DRG Code": 802,
+    "Description": "OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W MCC",
+    "Average Cost": "$590,553 "
+  },
+  {
+    "DRG Code": 803,
+    "Description": "OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W CC",
+    "Average Cost": "$73,202 "
+  },
+  {
+    "DRG Code": 804,
+    "Description": "OTHER O.R. PROC OF THE BLOOD & BLOOD FORMING ORGANS W/O CC/MCC",
+    "Average Cost": "$29,658 "
+  },
+  {
+    "DRG Code": 805,
+    "Description": "VAGINAL DELIVERY W/O STERILIZATION/D&C W MCC",
+    "Average Cost": "$22,988 "
+  },
+  {
+    "DRG Code": 806,
+    "Description": "VAGINAL DELIVERY W/O STERILIZATION/D&C W CC",
+    "Average Cost": "$14,186 "
+  },
+  {
+    "DRG Code": 807,
+    "Description": "VAGINAL DELIVERY W/O STERILIZATION/D&C W/O CC/MCC",
+    "Average Cost": "$12,698 "
+  },
+  {
+    "DRG Code": 808,
+    "Description": "MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W MCC",
+    "Average Cost": "$87,075 "
+  },
+  {
+    "DRG Code": 809,
+    "Description": "MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W CC",
+    "Average Cost": "$28,404 "
+  },
+  {
+    "DRG Code": 810,
+    "Description": "MAJOR HEMATOL/IMMUN DIAG EXC SICKLE CELL CRISIS & COAGUL W/O CC/MCC",
+    "Average Cost": "$34,381 "
+  },
+  {
+    "DRG Code": 811,
+    "Description": "RED BLOOD CELL DISORDERS W MCC",
+    "Average Cost": "$44,080 "
+  },
+  {
+    "DRG Code": 812,
+    "Description": "RED BLOOD CELL DISORDERS W/O MCC",
+    "Average Cost": "$27,191 "
+  },
+  {
+    "DRG Code": 813,
+    "Description": "COAGULATION DISORDERS",
+    "Average Cost": "$75,078 "
+  },
+  {
+    "DRG Code": 814,
+    "Description": "RETICULOENDOTHELIAL & IMMUNITY DISORDERS W MCC",
+    "Average Cost": "$84,345 "
+  },
+  {
+    "DRG Code": 815,
+    "Description": "RETICULOENDOTHELIAL & IMMUNITY DISORDERS W CC",
+    "Average Cost": "$27,830 "
+  },
+  {
+    "DRG Code": 816,
+    "Description": "RETICULOENDOTHELIAL & IMMUNITY DISORDERS W/O CC/MCC",
+    "Average Cost": "$35,425 "
+  },
+  {
+    "DRG Code": 817,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W MCC",
+    "Average Cost": "$100,758 "
+  },
+  {
+    "DRG Code": 818,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W CC",
+    "Average Cost": "$30,273 "
+  },
+  {
+    "DRG Code": 819,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W O.R. PROCEDURE W/O CC/MCC",
+    "Average Cost": "$18,190 "
+  },
+  {
+    "DRG Code": 820,
+    "Description": "LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W MCC",
+    "Average Cost": "$146,134 "
+  },
+  {
+    "DRG Code": 821,
+    "Description": "LYMPHOMA & LEUKEMIA W MAJOR O.R. PROCEDURE W CC",
+    "Average Cost": "$107,714 "
+  },
+  {
+    "DRG Code": 823,
+    "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W MCC",
+    "Average Cost": "$185,185 "
+  },
+  {
+    "DRG Code": 824,
+    "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W CC",
+    "Average Cost": "$40,452 "
+  },
+  {
+    "DRG Code": 825,
+    "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W OTHER PROC W/O CC/MCC",
+    "Average Cost": "$38,952 "
+  },
+  {
+    "DRG Code": 826,
+    "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W MCC",
+    "Average Cost": "$302,144 "
+  },
+  {
+    "DRG Code": 827,
+    "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W CC",
+    "Average Cost": "$187,487 "
+  },
+  {
+    "DRG Code": 828,
+    "Description": "MYELOPROLIF DISORD OR POORLY DIFF NEOPL W MAJ O.R. PROC W/O CC/MCC",
+    "Average Cost": "$122,289 "
+  },
+  {
+    "DRG Code": 829,
+    "Description": "MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS W OTHER PROCEDURE W CC/MCC",
+    "Average Cost": "$115,205 "
+  },
+  {
+    "DRG Code": 830,
+    "Description": "MYELOPROLIFERATIVE DISORDERS OR POORLY DIFFERENTIATED NEOPLASMS W OTHER PROCEDURE W/O CC/MCC",
+    "Average Cost": "$98,016 "
+  },
+  {
+    "DRG Code": 831,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W MCC",
+    "Average Cost": "$16,592 "
+  },
+  {
+    "DRG Code": 832,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W CC",
+    "Average Cost": "$12,303 "
+  },
+  {
+    "DRG Code": 833,
+    "Description": "OTHER ANTEPARTUM DIAGNOSES W/O O.R. PROCEDURE W/O CC/MCC",
+    "Average Cost": "$8,173 "
+  },
+  {
+    "DRG Code": 834,
+    "Description": "ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W MCC",
+    "Average Cost": "$233,643 "
+  },
+  {
+    "DRG Code": 835,
+    "Description": "ACUTE LEUKEMIA W/O MAJOR O.R. PROCEDURE W CC",
+    "Average Cost": "$207,095 "
+  },
+  {
+    "DRG Code": 840,
+    "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W MCC",
+    "Average Cost": "$98,768 "
+  },
+  {
+    "DRG Code": 841,
+    "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W CC",
+    "Average Cost": "$95,196 "
+  },
+  {
+    "DRG Code": 842,
+    "Description": "LYMPHOMA & NON-ACUTE LEUKEMIA W/O CC/MCC",
+    "Average Cost": "$58,316 "
+  },
+  {
+    "DRG Code": 843,
+    "Description": "OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W MCC",
+    "Average Cost": "$57,676 "
+  },
+  {
+    "DRG Code": 844,
+    "Description": "OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W CC",
+    "Average Cost": "$98,161 "
+  },
+  {
+    "DRG Code": 845,
+    "Description": "OTHER MYELOPROLIF DIS OR POORLY DIFF NEOPL DIAG W/O CC/MCC",
+    "Average Cost": "$65,020 "
+  },
+  {
+    "DRG Code": 846,
+    "Description": "CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W MCC",
+    "Average Cost": "$45,162 "
+  },
+  {
+    "DRG Code": 847,
+    "Description": "CHEMOTHERAPY W/O ACUTE LEUKEMIA AS SECONDARY DIAGNOSIS W CC",
+    "Average Cost": "$37,846 "
+  },
+  {
+    "DRG Code": 849,
+    "Description": "RADIOTHERAPY",
+    "Average Cost": "$43,263 "
+  },
+  {
+    "DRG Code": 853,
+    "Description": "INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W MCC",
+    "Average Cost": "$182,889 "
+  },
+  {
+    "DRG Code": 854,
+    "Description": "INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W CC",
+    "Average Cost": "$68,736 "
+  },
+  {
+    "DRG Code": 855,
+    "Description": "INFECTIOUS & PARASITIC DISEASES W O.R. PROCEDURE W/O CC/MCC",
+    "Average Cost": "$77,480 "
+  },
+  {
+    "DRG Code": 856,
+    "Description": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W MCC",
+    "Average Cost": "$185,776 "
+  },
+  {
+    "DRG Code": 857,
+    "Description": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W CC",
+    "Average Cost": "$74,010 "
+  },
+  {
+    "DRG Code": 858,
+    "Description": "POSTOPERATIVE OR POST-TRAUMATIC INFECTIONS W O.R. PROC W/O CC/MCC",
+    "Average Cost": "$45,012 "
+  },
+  {
+    "DRG Code": 862,
+    "Description": "POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W MCC",
+    "Average Cost": "$61,844 "
+  },
+  {
+    "DRG Code": 863,
+    "Description": "POSTOPERATIVE & POST-TRAUMATIC INFECTIONS W/O MCC",
+    "Average Cost": "$25,047 "
+  },
+  {
+    "DRG Code": 864,
+    "Description": "FEVER AND INFLAMMATORY CONDITIONS",
+    "Average Cost": "$22,352 "
+  },
+  {
+    "DRG Code": 865,
+    "Description": "VIRAL ILLNESS W MCC",
+    "Average Cost": "$45,133 "
+  },
+  {
+    "DRG Code": 866,
+    "Description": "VIRAL ILLNESS W/O MCC",
+    "Average Cost": "$20,694 "
+  },
+  {
+    "DRG Code": 867,
+    "Description": "OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W MCC",
+    "Average Cost": "$65,563 "
+  },
+  {
+    "DRG Code": 868,
+    "Description": "OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W CC",
+    "Average Cost": "$56,440 "
+  },
+  {
+    "DRG Code": 869,
+    "Description": "OTHER INFECTIOUS & PARASITIC DISEASES DIAGNOSES W/O CC/MCC",
+    "Average Cost": "$50,107 "
+  },
+  {
+    "DRG Code": 870,
+    "Description": "SEPTICEMIA OR SEVERE SEPSIS W MV >96 HOURS OR PERIPHERAL EXTRACORPOREAL MEMBRANE OXYGENATION (ECMO)",
+    "Average Cost": "$218,743 "
+  },
+  {
+    "DRG Code": 871,
+    "Description": "SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W MCC",
+    "Average Cost": "$67,274 "
+  },
+  {
+    "DRG Code": 872,
+    "Description": "SEPTICEMIA OR SEVERE SEPSIS W/O MV >96 HOURS W/O MCC",
+    "Average Cost": "$38,758 "
+  },
+  {
+    "DRG Code": 876,
+    "Description": "O.R. PROCEDURE W PRINCIPAL DIAGNOSES OF MENTAL ILLNESS",
+    "Average Cost": "$75,120 "
+  },
+  {
+    "DRG Code": 880,
+    "Description": "ACUTE ADJUSTMENT REACTION & PSYCHOSOCIAL DYSFUNCTION",
+    "Average Cost": "$27,985 "
+  },
+  {
+    "DRG Code": 881,
+    "Description": "DEPRESSIVE NEUROSES",
+    "Average Cost": "$16,289 "
+  },
+  {
+    "DRG Code": 882,
+    "Description": "NEUROSES EXCEPT DEPRESSIVE",
+    "Average Cost": "$13,591 "
+  },
+  {
+    "DRG Code": 883,
+    "Description": "DISORDERS OF PERSONALITY & IMPULSE CONTROL",
+    "Average Cost": "$21,802 "
+  },
+  {
+    "DRG Code": 884,
+    "Description": "ORGANIC DISTURBANCES & INTELLECTUAL DISABILITY",
+    "Average Cost": "$40,676 "
+  },
+  {
+    "DRG Code": 885,
+    "Description": "PSYCHOSES",
+    "Average Cost": "$17,625 "
+  },
+  {
+    "DRG Code": 886,
+    "Description": "BEHAVIORAL & DEVELOPMENTAL DISORDERS",
+    "Average Cost": "$8,926 "
+  },
+  {
+    "DRG Code": 887,
+    "Description": "OTHER MENTAL DISORDER DIAGNOSES",
+    "Average Cost": "$26,974 "
+  },
+  {
+    "DRG Code": 894,
+    "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE, LEFT AMA",
+    "Average Cost": "$28,099 "
+  },
+  {
+    "DRG Code": 896,
+    "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W MCC",
+    "Average Cost": "$45,454 "
+  },
+  {
+    "DRG Code": 897,
+    "Description": "ALCOHOL/DRUG ABUSE OR DEPENDENCE W/O REHABILITATION THERAPY W/O MCC",
+    "Average Cost": "$24,509 "
+  },
+  {
+    "DRG Code": 901,
+    "Description": "WOUND DEBRIDEMENTS FOR INJURIES W MCC",
+    "Average Cost": "$218,489 "
+  },
+  {
+    "DRG Code": 902,
+    "Description": "WOUND DEBRIDEMENTS FOR INJURIES W CC",
+    "Average Cost": "$114,884 "
+  },
+  {
+    "DRG Code": 903,
+    "Description": "WOUND DEBRIDEMENTS FOR INJURIES W/O CC/MCC",
+    "Average Cost": "$32,662 "
+  },
+  {
+    "DRG Code": 904,
+    "Description": "SKIN GRAFTS FOR INJURIES W CC/MCC",
+    "Average Cost": "$232,376 "
+  },
+  {
+    "DRG Code": 905,
+    "Description": "SKIN GRAFTS FOR INJURIES W/O CC/MCC",
+    "Average Cost": "$94,261 "
+  },
+  {
+    "DRG Code": 906,
+    "Description": "HAND PROCEDURES FOR INJURIES",
+    "Average Cost": "$99,661 "
+  },
+  {
+    "DRG Code": 907,
+    "Description": "OTHER O.R. PROCEDURES FOR INJURIES W MCC",
+    "Average Cost": "$141,929 "
+  },
+  {
+    "DRG Code": 908,
+    "Description": "OTHER O.R. PROCEDURES FOR INJURIES W CC",
+    "Average Cost": "$98,354 "
+  },
+  {
+    "DRG Code": 909,
+    "Description": "OTHER O.R. PROCEDURES FOR INJURIES W/O CC/MCC",
+    "Average Cost": "$86,429 "
+  },
+  {
+    "DRG Code": 913,
+    "Description": "TRAUMATIC INJURY W MCC",
+    "Average Cost": "$98,713 "
+  },
+  {
+    "DRG Code": 914,
+    "Description": "TRAUMATIC INJURY W/O MCC",
+    "Average Cost": "$29,911 "
+  },
+  {
+    "DRG Code": 915,
+    "Description": "ALLERGIC REACTIONS W MCC",
+    "Average Cost": "$58,744 "
+  },
+  {
+    "DRG Code": 916,
+    "Description": "ALLERGIC REACTIONS W/O MCC",
+    "Average Cost": "$20,195 "
+  },
+  {
+    "DRG Code": 917,
+    "Description": "POISONING & TOXIC EFFECTS OF DRUGS W MCC",
+    "Average Cost": "$46,723 "
+  },
+  {
+    "DRG Code": 918,
+    "Description": "POISONING & TOXIC EFFECTS OF DRUGS W/O MCC",
+    "Average Cost": "$25,337 "
+  },
+  {
+    "DRG Code": 919,
+    "Description": "COMPLICATIONS OF TREATMENT W MCC",
+    "Average Cost": "$55,086 "
+  },
+  {
+    "DRG Code": 920,
+    "Description": "COMPLICATIONS OF TREATMENT W CC",
+    "Average Cost": "$46,018 "
+  },
+  {
+    "DRG Code": 921,
+    "Description": "COMPLICATIONS OF TREATMENT W/O CC/MCC",
+    "Average Cost": "$19,777 "
+  },
+  {
+    "DRG Code": 922,
+    "Description": "OTHER INJURY, POISONING & TOXIC EFFECT DIAG W MCC",
+    "Average Cost": "$89,127 "
+  },
+  {
+    "DRG Code": 923,
+    "Description": "OTHER INJURY, POISONING & TOXIC EFFECT DIAG W/O MCC",
+    "Average Cost": "$26,898 "
+  },
+  {
+    "DRG Code": 934,
+    "Description": "FULL THICKNESS BURN W/O SKIN GRAFT OR INHAL INJ",
+    "Average Cost": "$19,568 "
+  },
+  {
+    "DRG Code": 935,
+    "Description": "NON-EXTENSIVE BURNS",
+    "Average Cost": "$25,035 "
+  },
+  {
+    "DRG Code": 940,
+    "Description": "O.R. PROC W DIAGNOSES OF OTHER CONTACT W HEALTH SERVICES W CC",
+    "Average Cost": "$70,980 "
+  },
+  {
+    "DRG Code": 947,
+    "Description": "SIGNS & SYMPTOMS W MCC",
+    "Average Cost": "$41,051 "
+  },
+  {
+    "DRG Code": 948,
+    "Description": "SIGNS & SYMPTOMS W/O MCC",
+    "Average Cost": "$33,202 "
+  },
+  {
+    "DRG Code": 949,
+    "Description": "AFTERCARE W CC/MCC",
+    "Average Cost": "$101,326 "
+  },
+  {
+    "DRG Code": 950,
+    "Description": "AFTERCARE W/O CC/MCC",
+    "Average Cost": "$42,785 "
+  },
+  {
+    "DRG Code": 951,
+    "Description": "OTHER FACTORS INFLUENCING HEALTH STATUS",
+    "Average Cost": "$29,355 "
+  },
+  {
+    "DRG Code": 955,
+    "Description": "CRANIOTOMY FOR MULTIPLE SIGNIFICANT TRAUMA",
+    "Average Cost": "$261,744 "
+  },
+  {
+    "DRG Code": 956,
+    "Description": "LIMB REATTACHMENT, HIP & FEMUR PROC FOR MULTIPLE SIGNIFICANT TRAUMA",
+    "Average Cost": "$289,476 "
+  },
+  {
+    "DRG Code": 957,
+    "Description": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W MCC",
+    "Average Cost": "$282,850 "
+  },
+  {
+    "DRG Code": 958,
+    "Description": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W CC",
+    "Average Cost": "$169,745 "
+  },
+  {
+    "DRG Code": 959,
+    "Description": "OTHER O.R. PROCEDURES FOR MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC",
+    "Average Cost": "$142,454 "
+  },
+  {
+    "DRG Code": 963,
+    "Description": "OTHER MULTIPLE SIGNIFICANT TRAUMA W MCC",
+    "Average Cost": "$93,771 "
+  },
+  {
+    "DRG Code": 964,
+    "Description": "OTHER MULTIPLE SIGNIFICANT TRAUMA W CC",
+    "Average Cost": "$54,472 "
+  },
+  {
+    "DRG Code": 965,
+    "Description": "OTHER MULTIPLE SIGNIFICANT TRAUMA W/O CC/MCC",
+    "Average Cost": "$43,143 "
+  },
+  {
+    "DRG Code": 969,
+    "Description": "HIV W EXTENSIVE O.R. PROCEDURE W MCC",
+    "Average Cost": "$309,339 "
+  },
+  {
+    "DRG Code": 970,
+    "Description": "HIV W EXTENSIVE O.R. PROCEDURE W/O MCC",
+    "Average Cost": "$26,059 "
+  },
+  {
+    "DRG Code": 974,
+    "Description": "HIV W MAJOR RELATED CONDITION W MCC",
+    "Average Cost": "$106,907 "
+  },
+  {
+    "DRG Code": 975,
+    "Description": "HIV W MAJOR RELATED CONDITION W CC",
+    "Average Cost": "$51,497 "
+  },
+  {
+    "DRG Code": 976,
+    "Description": "HIV W MAJOR RELATED CONDITION W/O CC/MCC",
+    "Average Cost": "$39,846 "
+  },
+  {
+    "DRG Code": 977,
+    "Description": "HIV W OR W/O OTHER RELATED CONDITION",
+    "Average Cost": "$50,980 "
+  },
+  {
+    "DRG Code": 981,
+    "Description": "EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W MCC",
+    "Average Cost": "$153,819 "
+  },
+  {
+    "DRG Code": 982,
+    "Description": "EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W CC",
+    "Average Cost": "$106,864 "
+  },
+  {
+    "DRG Code": 983,
+    "Description": "EXTENSIVE O.R. PROCEDURE UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC",
+    "Average Cost": "$86,545 "
+  },
+  {
+    "DRG Code": 987,
+    "Description": "NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W MCC",
+    "Average Cost": "$141,703 "
+  },
+  {
+    "DRG Code": 988,
+    "Description": "NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W CC",
+    "Average Cost": "$58,647 "
+  },
+  {
+    "DRG Code": 989,
+    "Description": "NON-EXTENSIVE O.R. PROC UNRELATED TO PRINCIPAL DIAGNOSIS W/O CC/MCC",
+    "Average Cost": "$92,877 "
+  },
+  {
+    "DRG Code": 998,
+    "Description": "PRINCIPAL DIAGNOSIS INVALID AS DISCHARGE DIAGNOSIS",
+    "Average Cost": "$17,414 "
+  },
+  {
+    "DRG Code": 999,
+    "Description": "UNGROUPABLE",
+    "Average Cost": "$12,743 "
+  }
+]
