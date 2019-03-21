@@ -1,14 +1,14 @@
 # Overview
-This repo offers documentation for querying a publicly accessible API to retrieve cost data by hospital provider and diagnosis. The purpose of making this publicly available is to attempt to help push down health care costs nationwide. If uninsured, patients can view costs of certain procedures to review options.
+This is the first, and to my knowledge, only, publicly available API containing pricing data for common procedures at domestic (US) hospitals. The purpose of making this publicly available is to help encourage price competition in the health care market and push down costs nationwide. If uninsured, patients can view costs of various procedures at nearby hospitals to review options.
 
 ### Notes
-- This project is a continual work in progress and may not contain all US hospitals.
-- The costs returned through this API reflect the average cost by diagnosis (DRG) reported by each hospital in January 2019.
+- This project is a continual work in progress and may not contain all US hospitals or procedure data.
+- The costs returned through this API reflect the average or median cost by procedure reported by each hospital in January 2019.
 - Many, but not all, of the costs returned by the API exclude outliers, defined as +/- 2 standard deviations from the mean. In other words, if a hospital performed 10 heart transplants in 2019, and one of those transplants incurred costs greater than 2 standard deviations from the mean of the others, it is not included in the average.
 
 # Base URL
 ```
-https://of7bidbqle.execute-api.us-west-2.amazonaws.com
+https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/
 ```
 The only version currently available is the *beta* version of the API.
 
