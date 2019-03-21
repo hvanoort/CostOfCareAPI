@@ -14,14 +14,13 @@ The only version currently available is the *beta* version of the API.
 
 # Endpoints
 ## Costs
-The _costs_ endpoint allows you to query hospital prices across all cost types (DRG, HCPCS, SVC, etc.). Two parameters can be prodivided when querying this endpoint: provider_id and/or drg_code. At least one of the following are required.
+The _costs_ endpoint allows you to query hospital prices across all cost types (DRG, HCPCS, SVC, etc.). The parameters passed to this endpoint are chained with "AND" functionality, meaning each additional parameter provided will further filter the results. At least one of the following are required:
+
 * **provider_name** - (optional) The name of the provider. The request will return matches containing the provided string.
 * **provider_id** - (optional) The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
 * **service_name** - (optional) The name of the service being requested (i.e. "heart transplant", "cpr", etc.). The request will return all matches containing the provided string. In other words, if the value passed to this parameter is "biopsy", the API will return results of procedures that contain the word biposy, like "Needle Kidney Biopsy" or "Bone Marrow Needle Biopsy".
-* **drg_code** - (optional) The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
-* **hcpcs_code** - (optional) The HCPCS code of the procedure
-* **ndc_code** - (optional) The NDC code of the medication
-* **svc_code** - (optional) The SVC code of the procedure
+* **cost_type** - (optional) One of: ["drg", "hcpcs", "ndc", "svc"]
+* **code** - (optional) The Medicare/Medicaid approved code relating to the DRG, HCPCS, NDC, or SVC. NOTE: If this parameter is provided, you must also pass a value for the "cost_type" parameter.
 
 #### cURL
 _Example Request_
@@ -32,11 +31,12 @@ _Example Response_
 ```python
 [
   {
-    "drg_code": 1, 
-    "provider_id": 230038,
-    "cost": 868178, 
     "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
-    "drg_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+    "provider_id": 230038,
+    "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+    "cost_type": "drg",
+    "code": 1, 
+    "cost": 868178
   },
   {...}
 ]
