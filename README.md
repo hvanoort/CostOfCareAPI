@@ -13,15 +13,20 @@ https://of7bidbqle.execute-api.us-west-2.amazonaws.com
 The only version currently available is the *beta* version of the API.
 
 # Endpoints
-## DRG
-The _drg_ endpoint allows you to query hospital prices by DRG (Diagnosis Related Groups). Two parameters can be prodivided when querying this endpoint: provider_id and/or drg_code. At least one of the two are required.
+## Costs
+The _costs_ endpoint allows you to query hospital prices across all cost types (DRG, HCPCS, SVC, etc.). Two parameters can be prodivided when querying this endpoint: provider_id and/or drg_code. At least one of the following are required.
+* **provider_name** - (optional) The name of the provider. The request will return matches containing the provided string.
 * **provider_id** - (optional) The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
+* **service_name** - (optional) The name of the service being requested (i.e. "heart transplant", "cpr", etc.). The request will return all matches containing the provided string. In other words, if the value passed to this parameter is "biopsy", the API will return results of procedures that contain the word biposy, like "Needle Kidney Biopsy" or "Bone Marrow Needle Biopsy".
 * **drg_code** - (optional) The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
+* **hcpcs_code** - (optional) The HCPCS code of the procedure
+* **ndc_code** - (optional) The NDC code of the medication
+* **svc_code** - (optional) The SVC code of the procedure
 
 #### cURL
 _Example Request_
 ```
-curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/drg?provider_id=230038
+curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
 ```
 _Example Response_
 ```python
