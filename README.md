@@ -19,11 +19,11 @@ The _drg_ endpoint allows you to query hospital prices by DRG (Diagnosis Related
 * **drg_code** - (optional) The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
 
 #### cURL
-##### Example Request
+_Example Request_
 ```
 curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/drg?provider_id=230038
 ```
-##### Example Response
+_Example Response_
 ```python
 [
   {
@@ -38,7 +38,7 @@ curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/d
 ```
 
 #### Python
-##### Example Request
+_Example Request_
 ```python
 import requests
 
@@ -50,7 +50,7 @@ params = {
 resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs', params=params)
 ```
 
-##### Example Response
+_Example Response_
 ```python
 [
   {
@@ -67,12 +67,12 @@ resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta
 The _provider_ endpoint allows you to query by hospital provider name and/or provider ID and returns data about that provider, along with all available pricing information spanning DRG, HCPCS, NDC, and SVC prices.
 
 ### cURL
-##### Example Request
+_Example Request_
 ```
 curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/provider?provider_id=230038
 ```
 
-##### Example Response
+_Example Response_
 ```python
 {
   "provider_id": 230038,
