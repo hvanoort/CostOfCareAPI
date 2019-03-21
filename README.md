@@ -7,18 +7,19 @@ This repo offers documentation for querying a publicly accessible API to retriev
 - Many, but not all, of the costs returned by the API exclude outliers, defined as +/- 2 standard deviations from the mean. In other words, if a hospital performed 10 heart transplants in 2019, and one of those transplants incurred costs greater than 2 standard deviations from the mean of the others, it is not included in the average.
 
 # How to use it
+## Base URL
+```
+https://of7bidbqle.execute-api.us-west-2.amazonaws.com
+```
+The only version currently available is the *beta* version of the API.
 
-### Base URL
-```
-https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs
-```
-Two parameters can be prodivided when querying the API - provider_id and/or drg_code. At least one of the two are required.
+## Endpoints
+### DRG
+The DRG endpoint allows you to query hospital prices by DRG (Diagnosis Related Groups). Two parameters can be prodivided when querying this endpoint: provider_id and/or drg_code. At least one of the two are required.
 * **provider_id** - (optional) The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
 * **drg_code** - (optional) The DRG code of the diagnosis, which can be found [here](https://www.icd10data.com/ICD10CM/DRG)
 
-<br>
-
-### cURL
+#### cURL
 ##### Example Request
 ```
 curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
@@ -37,7 +38,7 @@ curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/c
 ]
 ```
 
-### Python
+#### Python
 ##### Example Request
 ```python
 import requests
