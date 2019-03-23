@@ -14,13 +14,16 @@ The only version currently available is the *beta* version of the API.
 
 # Endpoints
 ## Costs
-The _costs_ endpoint allows you to query hospital prices across all cost types (DRG, HCPCS, SVC, etc.). The parameters passed to this endpoint are chained with "AND" functionality, meaning each additional parameter provided will further filter the results. At least one of the following are required:
+The _costs_ endpoint allows you to query hospital prices across all cost types (DRG, HCPCS, SVC, etc.). The parameters passed to this endpoint are chained with "AND" functionality, meaning each additional parameter provided will further filter the results. The maximum number of results returned by this endpoint is 10. At least one of the following parameters are required:
 
-* **provider_name** - (optional) The name of the provider. The request will return matches containing the provided string.
-* **provider_id** - (optional) The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database
-* **service_name** - (optional) The name of the service being requested (i.e. "heart transplant", "cpr", etc.). The request will return all matches containing the provided string. In other words, if the value passed to this parameter is "biopsy", the API will return results of procedures that contain the word biposy, like "Needle Kidney Biopsy" or "Bone Marrow Needle Biopsy".
-* **code_type** - (optional) One of: ["drg", "hcpcs", "ndc", "svc"]
-* **code** - (optional) The Medicare/Medicaid approved code relating to the DRG, HCPCS, NDC, or SVC. NOTE: If this parameter is provided, you must also pass a value for the "cost_type" parameter.
+parameter | required | description
+--- | --- | ---
+provider_name | false | The name of the provider. The request will return matches containing the provided string.
+provider_id | false | The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database.
+service_name | false | The name of the service being requested (i.e. "heart transplant", "cpr", etc.). The request will return all matches containing the provided string. In other words, if the value passed to this parameter is "biopsy", the API will return results of procedures that contain the word biposy, like "Needle Kidney Biopsy" or "Bone Marrow Needle Biopsy".
+code_type | false | One of: ["drg", "hcpcs", "ndc", "svc"]
+code | false | The Medicare/Medicaid approved code relating to the DRG, HCPCS, NDC, or SVC. NOTE: If this parameter is provided, you must also pass a value for the "cost_type" parameter.
+
 
 #### cURL
 _Example Request_
@@ -29,17 +32,19 @@ curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/c
 ```
 _Example Response_
 ```python
-[
-  {
-    "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
-    "provider_id": 230038,
-    "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
-    "code_type": "drg",
-    "code": 1, 
-    "cost": 868178
-  },
-  {...}
-]
+{
+  'count': 1,
+  'results': [
+      {
+        "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
+        "provider_id": 230038,
+        "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+        "code_type": "drg",
+        "code": 1, 
+        "cost": 868178
+      }
+  ]
+}
 ```
 
 #### Python
@@ -48,8 +53,7 @@ _Example Request_
 import requests
 
 params = {
-    'provider_id': 230038,
-    'code': 1
+    'provider_id': 230038
 }
 
 resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs', params=params)
@@ -57,43 +61,58 @@ resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta
 
 _Example Response_
 ```python
-[
-  {
-    "drg_code": 1, 
-    "provider_id": 230038,
-    "cost": 868178, 
-    "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
-    "drg_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
-  }
-]
+{
+  'count': 1,
+  'results': [
+      {
+        "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
+        "provider_id": 230038,
+        "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
+        "code_type": "drg",
+        "code": 1, 
+        "cost": 868178
+      }
+  ]
+}
 ```
 
-## Provider
-The _provider_ endpoint allows you to query by hospital provider name and/or provider ID and returns data about that provider, along with all available pricing information spanning DRG, HCPCS, NDC, and SVC prices.
+## Providers
+The _providers_ endpoint allows you to query by hospital provider name and/or provider ID and returns data about that provider. Only one result will be returned. Both of the following parameters are optional, but at least one must be provided.
 
-### cURL
+parameter | required | description
+--- | --- | ---
+provider_id | false | The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database.
+provider_name | false | The exact name of this provider/hospital
+
+#### cURL
 _Example Request_
 ```
-curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/provider?provider_id=230038
+curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/providers?provider_id=100008
 ```
 
 _Example Response_
 ```python
 {
-  "provider_id": 230038,
-  "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
-  "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
-  "drg_prices": [
-    {
-      "drg_code": 1, 
-      "price": 868178, 
-      "drg_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC"
-    },
-    {...}
-  ],
-  "hcpcs_prices": [
-    {...},
-    {...}
-  ]
+  "county_name": "MIAMI-DADE",
+  "location": "8900 N KENDALL DR MIAMI, FL (25.687781, -80.339086)",
+  "hospital_name": "BAPTIST HOSPITAL OF MIAMI",
+  "zip_code": "33176",
+  "effectiveness_of_care_national_comparison": "Same as the national average",
+  "meets_criteria_for_meaningful_use_of_ehrs": "TRUE",
+  "efficient_use_of_medical_imaging_national_comparison": "Above the national average",
+  "provider_id": "100008",
+  "address": "8900 N KENDALL DR",
+  "readmission_national_comparison": "Above the national average",
+  "state": "FL",
+  "city": "MIAMI",
+  "hospital_type": "Acute Care Hospitals",
+  "hospital_ownership": "Voluntary non-profit - Private",
+  "mortality_national_comparison": "Above the national average",
+  "safety_of_care_national_comparison": "Below the national average",
+  "phone_number": "7865961960",
+  "patient_experience_national_comparison": "Same as the national average",
+  "timeliness_of_care_national_comparison": "Below the national average",
+  "emergency_services": "TRUE",
+  "hospital_overall_rating": "2"
 }
 ```
