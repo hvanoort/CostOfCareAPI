@@ -88,7 +88,7 @@ The _providers_ endpoint allows you to query by hospital provider name and/or pr
 parameter | required | description
 --- | --- | ---
 provider_id | false | The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database.
-provider_name | false | The exact name of this provider/hospital
+provider_name | false | The name of this provider/hospital. The first result we can find that _begins with_ the value provided in this parameter will be returned. Use "+" in place of spaces (i.e. "Baptist+Hospital+of+Miami")
 
 #### cURL
 _Example Request_
