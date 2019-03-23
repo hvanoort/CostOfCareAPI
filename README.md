@@ -6,11 +6,15 @@ This is the first, and to my knowledge, only, publicly available API containing 
 - The costs returned through this API reflect the average or median cost by procedure reported by each hospital in January 2019.
 - Many, but not all, of the costs returned by the API exclude outliers, defined as +/- 2 standard deviations from the mean. In other words, if a hospital performed 10 heart transplants in 2019, and one of those transplants incurred costs greater than 2 standard deviations from the mean of the others, it is not included in the average.
 
+<br><br>
+
 # Base URL
 ```
 https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/
 ```
 The only version currently available is the *beta* version of the API.
+
+<br><br>
 
 # Endpoints
 ## Costs
@@ -75,6 +79,8 @@ _Example Response_
   ]
 }
 ```
+
+<br>
 
 ## Providers
 The _providers_ endpoint allows you to query by hospital provider name and/or provider ID and returns data about that provider. Only one result will be returned. Both of the following parameters are optional, but at least one must be provided.
