@@ -12,7 +12,12 @@ This is the first, and to my knowledge, only, publicly available API containing 
 ```
 https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/
 ```
-The only version currently available is the *beta* version of the API.
+The only version currently available is the *beta* version of the API. Access is regulated via API keys. See the following section for more information.
+
+<br><br>
+
+# Access
+To access this API, you'll need to provide a valid API key in the header of your request. To obtain an API key, just email harrison.vanoort@gmail.com and explain your use for the API. We'll provide you with an API key that will be tied to a usage plan that is appropriate for your use case.
 
 <br><br>
 
@@ -32,7 +37,7 @@ code | false | The Medicare/Medicaid approved code relating to the DRG, HCPCS, N
 #### cURL
 _Example Request_
 ```
-curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038
+curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038 --header "X-API-Key: {your-api-key}"
 ```
 _Example Response_
 ```python
@@ -44,7 +49,7 @@ _Example Response_
         "provider_id": 230038,
         "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
         "code_type": "drg",
-        "code": 1, 
+        "code": 1,
         "cost": 868178
       }
   ]
@@ -56,11 +61,10 @@ _Example Request_
 ```python
 import requests
 
-params = {
-    'provider_id': 230038
-}
+params = {'provider_id': 230038}
+header = {'X-API-Key': {your-api-key}}
 
-resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs', params=params)
+resp = requests.get('https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs', params=params, headers=header)
 ```
 
 _Example Response_
@@ -73,7 +77,7 @@ _Example Response_
         "provider_id": 230038,
         "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
         "code_type": "drg",
-        "code": 1, 
+        "code": 1,
         "cost": 868178
       }
   ]
@@ -93,7 +97,7 @@ provider_name | false | The name of this provider/hospital. The first result we 
 #### cURL
 _Example Request_
 ```
-curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/providers?provider_id=100008
+curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/providers?provider_id=100008 --header "X-API-Key: {your-api-key}"
 ```
 
 _Example Response_
