@@ -3,7 +3,8 @@ This is the first, and to my knowledge, only, publicly available API containing 
 
 ### Notes
 - This project is a continual work in progress and may not contain all US hospitals or procedure data.
-- The costs returned through this API reflect the average or median cost by procedure reported by each hospital in January 2019.
+- The costs returned through this API reflect the average or median cost by procedure
+- For DRG (Diagnosis Related Groups) costs, if fewer than 11 discharges were recorded by a provider for a DRG, that DRG is excluded from the dataset. 
 - Many, but not all, of the costs returned by the API exclude outliers, defined as +/- 2 standard deviations from the mean. In other words, if a hospital performed 10 heart transplants in 2019, and one of those transplants incurred costs greater than 2 standard deviations from the mean of the others, it is not included in the average.
 
 <br><br>
@@ -17,7 +18,7 @@ The only version currently available is the *beta* version of the API. Access is
 <br><br>
 
 # Access
-To access this API, you'll need to provide a valid API key in the header of your request. To obtain an API key, just email harrison.vanoort@gmail.com and explain your use for the API. We'll provide you with an API key that will be tied to a usage plan that is appropriate for your use case.
+To access this API, you'll need to provide a valid API key in the *X-Api-Key* header of each request. To obtain an API key, just email harrison.vanoort@gmail.com and explain your use for the API. We'll provide you with an API key that will be tied to a usage plan that is appropriate for your use case.
 
 <br><br>
 
