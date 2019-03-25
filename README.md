@@ -1,10 +1,10 @@
 # Overview
-This is the first, and to my knowledge, only, publicly available API containing pricing data for common procedures at domestic (US) hospitals. The purpose of making this publicly available is to help encourage price competition in the health care market and push down costs nationwide. If uninsured, patients can view costs of various procedures at nearby hospitals to review options.
+This is a publicly available API containing pricing data for common procedures at domestic (US) hospitals. If uninsured, patients can view costs of various procedures at nearby hospitals to review options.
 
 ### Notes
 - This project is a continual work in progress and may not contain all US hospitals or procedure data.
 - The costs returned through this API reflect the average or median cost by procedure
-- For DRG (Diagnosis Related Groups) costs, if fewer than 11 discharges were recorded by a provider for a DRG, that DRG is excluded from the dataset. 
+- For DRG (Diagnosis Related Groups) costs, if fewer than 11 discharges were recorded by a provider for a DRG, that DRG is excluded from the dataset.
 - Many, but not all, of the costs returned by the API exclude outliers, defined as +/- 2 standard deviations from the mean. In other words, if a hospital performed 10 heart transplants in 2019, and one of those transplants incurred costs greater than 2 standard deviations from the mean of the others, it is not included in the average.
 
 <br><br>
