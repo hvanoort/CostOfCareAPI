@@ -42,6 +42,7 @@ curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/c
 ```
 
 The following fields are available in the response object:
+
 field | definition
 --- | ---
 provider_id | The CMS Certification Number (CCN) assigned to the Medicare certified hospital facility.
