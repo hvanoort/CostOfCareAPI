@@ -29,9 +29,9 @@ The _costs_ endpoint allows you to query hospital prices across all cost types (
 parameter | required | description
 --- | --- | ---
 provider_name | false | The name of the provider. The request will return matches containing the provided string.
-provider_id | false | The ID of the provider, as can be found in [this](https://data.medicare.gov/widgets/xubh-q36u) database.
+provider_id | false | The CMS Certification Number (CCN) assigned to the Medicare certified hospital facility.
 service_name | false | The name of the service being requested (i.e. "heart transplant", "cpr", etc.). The request will return all matches containing the provided string. In other words, if the value passed to this parameter is "biopsy", the API will return results of procedures that contain the word biposy, like "Needle Kidney Biopsy" or "Bone Marrow Needle Biopsy".
-code_type | false | One of: ["drg", "hcpcs", "ndc", "svc"]
+code_type | false | One of: ["drg", "hcpcs", "ndc", "svc"]. Note: only "drg" currently supported.
 code | false | The Medicare/Medicaid approved code relating to the DRG, HCPCS, NDC, or SVC. NOTE: If this parameter is provided, you must also pass a value for the "cost_type" parameter.
 
 
@@ -40,6 +40,24 @@ _Example Request_
 ```
 curl --request GET https://of7bidbqle.execute-api.us-west-2.amazonaws.com/beta/costs?provider_id=230038 --header "X-API-Key: {your-api-key}"
 ```
+
+The following fields are available in the response object:
+field | definition
+--- | ---
+provider_id | The CMS Certification Number (CCN) assigned to the Medicare certified hospital facility.
+code | The DRG, HCPCS, NDC, or SVC code for the returned service.
+code_type | One of: ["drg", "hcpcs", "ndc", "svc"]
+provider_name | The name of the provider.
+provider_state | The two-letter abbreviation of the state where the provider is located.
+provider_city | The city where the provider is located.
+service_name_official | The name of the service being requested (i.e. "heart transplant", "cpr", etc.).
+date_from | The start date of the coverage period in which the averages were calculated.
+date_to | The end date of the coverage period in which the averages were calculated.
+total_discharges | The number of discharges billed by the provider for inpatient hospital services.
+average_covered_charges | The provider's average charge for services covered by Medicare for all discharges in the MS-DRG. These will vary from hospital to hospital because of differences in hospital charge structures.
+average_total_payments | The average total payments to all providers for the MS-DRG including the MS-DRG amount, teaching, disproportionate share, capital, and outlier payments for all cases. Also included in average total payments are co-payments and deductible amounts that the patient is responsible for and any additional payments by third parties for coordination of benefits.
+average_medicare_payments | The average amount that Medicare pays to the provider for Medicare's share of the MS-DRG. Average Medicare payment amounts include the MS-DRG amount, teaching, disproportionate share, capital, and outlier payments for all cases. Medicare payments DO NOT include beneficiary co-payments and deductible amounts nor any additional payments from third parties for coordination of benefits.
+
 _Example Response_
 ```python
 {
@@ -75,11 +93,13 @@ _Example Response_
   'results': [
       {
         "provider_name": "SPECTRUM HEALTH - BUTTERWORTH CAMPUS",
-        "provider_id": 230038,
+        "provider_id": "230038",
         "service_name": "HEART TRANSPLANT OR IMPLANT OF HEART ASSIST SYSTEM W MCC",
         "code_type": "drg",
-        "code": 1,
-        "cost": 868178
+        "code": "001",
+        "average_covered_charges": 719010.42,
+        "average_total_payments": 265599.03,
+        "average_medicare_payments": 239791.25
       }
   ]
 }
